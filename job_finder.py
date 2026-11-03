@@ -85,7 +85,7 @@ def main():
 
         for job in jobs.values():
             title = job.get("title", "Untitled")
-            description = job.get("description", "")
+            description = job.get("description") or ""
             link = (
                 "https://www.freelancer.com/projects/"
                 + str(job.get("seo_url", job.get("id", "")))
@@ -94,7 +94,7 @@ def main():
             f.write("---\n\n")
             f.write(f"## {title}\n\n")
             f.write(f"Link: {link}\n\n")
-            f.write(f"Description: {description[:1500]}\n\n")
+            f.write(f"Description: {str(description)[:1500]}\n\n")
             f.write("### Proposal draft\n\n")
             f.write(make_proposal(title, description))
             f.write("\n\n")
