@@ -6,6 +6,170 @@ Jobs found: 47
 
 ---
 
+## Financial Book Social Media Marketing
+
+Link: https://www.freelancer.com/projects/community-management/Financial-Book-Social-Media-Marketing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Financial Book Social Media Marketing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Animación Blender Padre e Hija -- 2
+
+Link: https://www.freelancer.com/projects/blender/Animaci-Blender-Padre-Hija-40801026
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Animación Blender Padre e Hija -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Edición Urgente Aftermovie Corporativo
+
+Link: https://www.freelancer.com/projects/video-editing/Edici-Urgente-Aftermovie-Corporativo
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Edición Urgente Aftermovie Corporativo
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Micro-Task Posting Platform Development
+
+Link: https://www.freelancer.com/projects/api-developmet/Micro-Task-Posting-Platform-Development
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Micro-Task Posting Platform Development
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Hi,
+
+Hope you are good! 
+
+We're looking for a creator to produce a short product video for our outdoor shooting-sports accessories — specifically a cheek pad (stock riser) and a stock cover. Both are protective/comfort accessories for rifles used in hunti
+
+Link: https://www.freelancer.com/projects/content-creation/Hope-you-are-good-looking
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Hi,
+
+Hope you are good! 
+
+We're looking for a creator to produce a short product video for our outdoor shooting-sports accessories — specifically a cheek pad (stock riser) and a stock cover. Both are protective/comfort accessories for rifles used in hunti
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## AI Advisor Testing & Feedback
+
+Link: https://www.freelancer.com/projects/ai-app-development/Advisor-Testing-Feedback
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: AI Advisor Testing & Feedback
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
 ## Affiliate Recruiter for Trading Platform
 
 Link: https://www.freelancer.com/projects/affiliate-marketing/Affiliate-Recruiter-for-Trading-Platform
@@ -13,7 +177,6 @@ Link: https://www.freelancer.com/projects/affiliate-marketing/Affiliate-Recruite
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -41,7 +204,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Magazine Production & Digital Operations VA
@@ -67,7 +229,6 @@ Link: https://www.freelancer.com/projects/blender/Animaci-Blender-Padre-Hija
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -95,7 +256,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Presenter-Led Logistics Training Videos
@@ -121,7 +281,6 @@ Link: https://www.freelancer.com/projects/video-editing/Video-Corporativo-Fullto
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -149,7 +308,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: YouTube Vlog/Event Videography -- 2
@@ -175,7 +333,6 @@ Link: https://www.freelancer.com/projects/academic-writing/Academic-Paper-Proofr
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -203,7 +360,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Dubai Interior Design Social Strategy
@@ -229,7 +385,6 @@ Link: https://www.freelancer.com/projects/video-editing/Aftermovie-Corporativo-F
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -257,7 +412,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: English-Malayalam Title Copywriting
@@ -283,7 +437,6 @@ Link: https://www.freelancer.com/projects/character-animation/Animate-African-Co
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -311,7 +464,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: High-Ticket B2B Sales Closer – Corporate Asset Liquidation (Pre-Booked Calls) -- 2
@@ -337,7 +489,6 @@ Link: https://www.freelancer.com/projects/social-media-marketing/Viral-Trend-Ree
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -365,172 +516,9 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Character-Consistent Reels Prompt System
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Soft Storybook Rose Garden Animation
-
-Link: https://www.freelancer.com/projects/2d-animation/Soft-Storybook-Rose-Garden-Animation
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Soft Storybook Rose Garden Animation
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Dynamic Instagram Reel Editing
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-Instagram-Reel-Editing-40800788
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Dynamic Instagram Reel Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Marketplace Inventory Data Entry
-
-Link: https://www.freelancer.com/projects/inventory-management/Marketplace-Inventory-Data-Entry
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Marketplace Inventory Data Entry
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Institution: Lazarski University in Warsaw (Uczelnia Łazarskiego w Warszawie) Address: ul. Świeradowska 43, 02-662 Warszawa, Poland                                                                  
-
-Link: https://www.freelancer.com/projects/photography/Institution-Lazarski-University-Warsaw
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Institution: Lazarski University in Warsaw (Uczelnia Łazarskiego w Warszawie) Address: ul. Świeradowska 43, 02-662 Warszawa, Poland                                                                  
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Energetic Devotional Reel Edit
-
-Link: https://www.freelancer.com/projects/motion-graphics/Energetic-Devotional-Reel-Edit
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Energetic Devotional Reel Edit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## YouTube Health & Nutrition Video Editor
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Health-Nutrition-Video-Editor
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: YouTube Health & Nutrition Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -554,10 +542,35 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Drive App Installs for Car Deals
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## YouTube Health & Nutrition Video Editor
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Health-Nutrition-Video-Editor
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: YouTube Health & Nutrition Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -580,7 +593,6 @@ Link: https://www.freelancer.com/projects/keyword-research/SEO-Expert-Needed-For
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -608,7 +620,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: YouTube AI Workflow & Video Editor (Faceless STEM Channel) + Pabbly Automation
@@ -634,7 +645,6 @@ Link: https://www.freelancer.com/projects/content-creation/YouTube-Vlog-Event-Vi
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -662,7 +672,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Engaging YouTube Shorts Promotion
@@ -688,7 +697,6 @@ Link: https://www.freelancer.com/projects/ai-video/Video-Demonstrating-Product-S
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -716,7 +724,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Instagram & Facebook Event Marketing
@@ -742,7 +749,6 @@ Link: https://www.freelancer.com/projects/social-media-marketing/Create-Roladel-
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -770,7 +776,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: ~$1200 Project | Caucasian Female Mac Presenter for Technical Demo Videos | Australia, UK or Ireland
@@ -796,7 +801,6 @@ Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Cooking-Cha
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -824,7 +828,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: YouTube Explainer Video Editing
@@ -850,7 +853,6 @@ Link: https://www.freelancer.com/projects/av-editing/Spiritual-Meditation-Conten
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -878,7 +880,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Edit My Viral Short Videos
@@ -904,7 +905,6 @@ Link: https://www.freelancer.com/projects/color-grading/Cinematic-YouTube-Produc
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -932,37 +932,9 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Modern Graphic & Video Design
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Next.js Developer Needed to Build a Website
-
-Link: https://www.freelancer.com/projects/nextjs/Next-Developer-Needed-Build-Website-40800318
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Next.js Developer Needed to Build a Website
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -986,37 +958,9 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Resolve Disapproved Google Ads Creatives
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Editor Dinámico de Videos Cortos
-
-Link: https://www.freelancer.com/projects/motion-graphics/Editor-Din-mico-Videos-Cortos
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Editor Dinámico de Videos Cortos
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1040,10 +984,87 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: increase reach of singing instagram profile 
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Dynamic Instagram Reel Editing
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-Instagram-Reel-Editing-40800788
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Dynamic Instagram Reel Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Editor Dinámico de Videos Cortos
+
+Link: https://www.freelancer.com/projects/motion-graphics/Editor-Din-mico-Videos-Cortos
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Editor Dinámico de Videos Cortos
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Energetic Devotional Reel Edit
+
+Link: https://www.freelancer.com/projects/motion-graphics/Energetic-Devotional-Reel-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Energetic Devotional Reel Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1066,7 +1087,6 @@ Link: https://www.freelancer.com/projects/video-post-editing/Birthday-Video-Edit
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -1094,7 +1114,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: TikTok Short Video Content
@@ -1120,7 +1139,6 @@ Link: https://www.freelancer.com/projects/da-vinci-resolve/Short-Reels-Video-Edi
 Description: 
 
 ### Proposal draft
-
 
 Hello,
 
@@ -1148,7 +1166,6 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Used Car Dealer Lead Generation
@@ -1167,45 +1184,17 @@ Best regards
 
 ---
 
-## Luxury Pre-Wedding Photo Editing
+## Kolkata Educational Background Field Verification
 
-Link: https://www.freelancer.com/projects/adobe-photoshop/Luxury-Pre-Wedding-Photo-Editing
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: Luxury Pre-Wedding Photo Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Basketball Highlights Video
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Basketball-Highlights-Video
+Link: https://www.freelancer.com/projects/field-research/Kolkata-Educational-Background-Field
 
 Description: 
 
 ### Proposal draft
 
-
 Hello,
 
-I reviewed your project: Basketball Highlights Video
+I reviewed your project: Kolkata Educational Background Field Verification
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1229,37 +1218,9 @@ Description:
 
 ### Proposal draft
 
-
 Hello,
 
 I reviewed your project: Kolkata Background Verification Research
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## BitcoinZ Content & Community Collaborators
-
-Link: https://www.freelancer.com/projects/blockchain/BitcoinZ-Content-Community-Collaborators
-
-Description: 
-
-### Proposal draft
-
-
-Hello,
-
-I reviewed your project: BitcoinZ Content & Community Collaborators
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
