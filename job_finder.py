@@ -67,6 +67,13 @@ def main():
             job_id = str(job.get("id", ""))
             if job_id:
                 jobs[job_id] = job
+    
+with open(
+    "reports/jobs-" + datetime.now().strftime("%Y-%m-%d") + ".json",
+    "w",
+    encoding="utf-8"
+) as jf:
+    json.dump(list(jobs.values()), jf, indent=2)
 
     output = Path("reports")
     output.mkdir(exist_ok=True)
