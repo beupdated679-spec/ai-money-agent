@@ -1,107 +1,151 @@
-
 import json
 from pathlib import Path
 from datetime import datetime
 
-REPORTS = Path("reports")
-REPORTS.mkdir(exist_ok=True)
-
+# Change these words to match the work you can actually do.
 SKILLS = [
     "video editing",
     "youtube shorts",
+    "shorts",
+    "reels",
     "captions",
     "subtitles",
-    "reels",
-    "educational videos",
-    "short form video",
-    "social media videos"
+    "educational video",
+    "premiere pro",
+    "capcut",
+    "after effects",
+    "social media video",
 ]
 
-def score_job(title, description):
-    text = (str(title) + " " + str(description)).lower()
-    score = sum(1 for skill in SKILLS if skill in text)
-    return score
+# Jobs with at least this many matching skill words are shortlisted.
+MIN_SCORE = 1
 
-def generate_proposal(title, description):
-    text = str(description).lower()
 
-    services = []
+def load_latest_jobs():
+    reports = Path("reports")
+    files = sorted(reports.glob("jobs-*.json"))
 
-    if "caption" in text or "subtitle" in text:
-        services.append("accurate captions and subtitles")
+    if not files:
+        print("No jobs JSON found.")
+        print("Run this first: python job_finder.py")
+        return []
 
-    if "youtube" in text or "short" in text:
-        services.append("engaging short-form video editing")
+    latest_file = files[-1]
+    print("Reading jobs from:", latest_file)
 
-    if "educational" in text:
-        services.append("clear educational video presentation")
+    try:
+        with latest_file.open("r", encoding="utf-8") as f:
+            jobs = json.load(f)
+        return jobs if isinstance(jobs, list) else []
+    except (json.JSONDecodeError, OSError) as error:
+        print("Could not read jobs file:", error)
+        return []
 
-    if "reels" in text or "instagram" in text:
-        services.append("social-media-ready video formatting")
 
-    if not services:
-        services.append("professional video editing")
+def score_job(job):
+    title = str(job.get("title") or "")
+    description = str(job.get("description") or "")
+    text = (title + " " + description).lower()
 
-    service_text = ", ".join(services)
+    matched = [skill for skill in SKILLS if skill.lower() in text]
+    return len(matched), matched
+
+
+def create_proposal(title, description, matched_skills):
+    skills_text = ", ".join(matched_skills[:5]) or "video editing"
 
     return f"""Hello,
 
-I reviewed your project: {title}
+I’m interested in your project, "{title}".
 
-I can help you with {service_text}.
+I can help create engaging video content with clear pacing,
+clean cuts, captions/subtitles, and an editing style suited
+to your target audience. Relevant areas include {skills_text}.
 
-My workflow focuses on clean editing, suitable pacing,
-and a professional final result.
+Before starting, I would confirm the video length, preferred
+style, format, footage/assets, deadline, and any examples
+you would like me to follow.
 
-Before starting, I would confirm your preferred style,
-video duration, delivery format, and deadline.
-
-I would be happy to discuss your requirements.
+I’d be happy to discuss your requirements and deliver a
+sample or first draft if appropriate.
 
 Best regards
 """
 
-def main():
-    files = sorted(REPORTS.glob("freelance-*.md"))
 
-    if not files:
-        print("No freelance reports found.")
-        print("Run job_finder.py first.")
+def main():
+    jobs = load_latest_jobs()
+
+    if not jobs:
+        print("No jobs available to process.")
         return
 
-    latest = files[-1]
-    content = latest.read_text(encoding="utf-8")
+    shortlisted = []
 
-    # Read the structured jobs from the saved JSON if available.
-    jobs = []
-    json_files = sorted(REPORTS.glob("jobs-*.json"))
+    for job in jobs:
+        if not isinstance(job, dict):
+            continue
 
-    if json_files:
-        jobs = json.loads(json_files[-1].read_text())
+        score, matched = score_job(job)
 
-    output = REPORTS / (
-        "proposals-" + datetime.now().strftime("%Y-%m-%d") + ".md"
-    )
+        if score >= MIN_SCORE:
+            title = str(job.get("title") or "Untitled")
+            description = str(job.get("description") or "")
+            project_id = str(job.get("id") or "")
+            seo_url = str(job.get("seo_url") or project_id)
 
-    with output.open("w", encoding="utf-8") as f:
-        f.write("# Proposal Agent Report\n\n")
-        f.write("These are drafts. Review before sending.\n\n")
+            if seo_url.startswith("http"):
+                link = seo_url
+            else:
+                link = "https://www.freelancer.com/projects/" + seo_url
 
-        for job in jobs:
-            title = job.get("title") or "Untitled"
-            description = job.get("description") or ""
-            score = score_job(title, description)
+            shortlisted.append({
+                "id": project_id,
+                "title": title,
+                "description": description,
+                "link": link,
+                "score": score,
+                "matched_skills": matched,
+                "proposal": create_proposal(title, description, matched),
+            })
 
-            if score == 0:
-                continue
+    shortlisted.sort(key=lambda item: item["score"], reverse=True)
 
-            f.write("---\n\n")
-            f.write(f"## {title}\n\n")
-            f.write(f"Match score: {score}/8\n\n")
-            f.write(generate_proposal(title, description))
-            f.write("\n\n")
+    reports = Path("reports")
+    reports.mkdir(parents=True, exist_ok=True)
+    today = datetime.now().strftime("%Y-%m-%d")
 
-    print("Proposal drafts saved:", output)
+    json_path = reports / f"proposals-{today}.json"
+    with json_path.open("w", encoding="utf-8") as f:
+        json.dump(shortlisted, f, indent=2, ensure_ascii=False)
+
+    md_path = reports / f"proposals-{today}.md"
+    with md_path.open("w", encoding="utf-8") as f:
+        f.write("# Shortlisted Freelance Jobs & Proposal Drafts\\n\\n")
+        f.write(f"Date: {today}\\n")
+        f.write(f"Jobs reviewed: {len(jobs)}\\n")
+        f.write(f"Jobs shortlisted: {len(shortlisted)}\\n\\n")
+
+        if not shortlisted:
+            f.write("No jobs matched the current skill keywords.\\n")
+
+        for item in shortlisted:
+            f.write("---\\n\\n")
+            f.write(f"## {item['title']}\\n\\n")
+            f.write(f"Score: {item['score']}\\n\\n")
+            f.write("Matched skills: " + ", ".join(item["matched_skills"]) + "\\n\\n")
+            f.write(f"Link: {item['link']}\\n\\n")
+            f.write("### Description\\n\\n")
+            f.write(item["description"][:1500] + "\\n\\n")
+            f.write("### Proposal draft (review before sending)\\n\\n")
+            f.write(item["proposal"] + "\\n\\n")
+
+    print("Jobs reviewed:", len(jobs))
+    print("Jobs shortlisted:", len(shortlisted))
+    print("Saved:", md_path)
+    print("Saved:", json_path)
+    print("Review proposals manually before submitting them.")
+
 
 if __name__ == "__main__":
     main()
