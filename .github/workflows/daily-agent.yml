@@ -20,13 +20,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run Agent
+      - name: Run Job Finder
+        run: python job_finder.py
+
+      - name: Run Proposal Agent
+        run: python proposal_agent.py
+
+      - name: Run Main Agent
         run: python agent.py
 
-      - name: Save Report
+      - name: Save Reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add reports
-          git commit -m "Daily AI Agent Report" || echo "No changes"
+          git commit -m "Daily AI Agent Reports" || echo "No changes"
           git push
