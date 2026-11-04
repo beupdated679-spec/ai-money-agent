@@ -2,7 +2,163 @@
 
 Date: 2026-11-04
 
-Jobs found: 41
+Jobs found: 39
+
+---
+
+## Dynamic Padel Video Reels 
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Dynamic-Padel-Video-Reels
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Dynamic Padel Video Reels 
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Urgente hacer un modelado 3d en blender
+
+Link: https://www.freelancer.com/projects/blender/Urgente-hacer-modelado-blender
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Urgente hacer un modelado 3d en blender
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Luxury Real Estate Video Editing -- 2
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Luxury-Real-Estate-Video-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Luxury Real Estate Video Editing -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Gospel Tracks: Producer & Audio Engineer
+
+Link: https://www.freelancer.com/projects/audio-engineering/Gospel-Tracks-Producer-Audio-Engineer
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Gospel Tracks: Producer & Audio Engineer
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Dynamic YouTube Image Editing
+
+Link: https://www.freelancer.com/projects/adobe-photoshop/Dynamic-YouTube-Image-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Dynamic YouTube Image Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Professional YouTube Video & Shorts
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Professional-YouTube-Video-Shorts
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Professional YouTube Video & Shorts
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -370,9 +526,9 @@ Best regards
 
 ---
 
-## Engaging Medical Explainer Videos -- 2
+## SEO & Social Media Marketing Expert Needed to Rank Stationery/Notebook Business (www.sriramanotebook.com)
 
-Link: https://www.freelancer.com/projects/content-creation/Engaging-Medical-Explainer-Videos
+Link: https://www.freelancer.com/projects/social-media-marketing/SEO-Social-Media-Marketing-Expert-40802547
 
 Description: 
 
@@ -380,7 +536,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Engaging Medical Explainer Videos -- 2
+I reviewed your project: SEO & Social Media Marketing Expert Needed to Rank Stationery/Notebook Business (www.sriramanotebook.com)
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Nepali 2D Animator for YouTube
+
+Link: https://www.freelancer.com/projects/2d-animation/Nepali-Animator-for-YouTube
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Nepali 2D Animator for YouTube
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -474,32 +656,6 @@ Best regards
 
 ---
 
-## Creative Designer and Manager
-
-Link: https://www.freelancer.com/projects/social-media-marketing/Creative-Designer-Manager
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Creative Designer and Manager
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## YouTube Shorts Video Editing
 
 Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Shorts-Video-Editing-40802416
@@ -511,58 +667,6 @@ Description:
 Hello,
 
 I reviewed your project: YouTube Shorts Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## SEO & Social Media Marketing Expert Needed to Rank Stationery/Notebook Business (www.sriramanotebook.com)
-
-Link: https://www.freelancer.com/projects/social-media-marketing/SEO-Social-Media-Marketing-Expert-40802547
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: SEO & Social Media Marketing Expert Needed to Rank Stationery/Notebook Business (www.sriramanotebook.com)
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Nepali 2D Animator for YouTube
-
-Link: https://www.freelancer.com/projects/2d-animation/Nepali-Animator-for-YouTube
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Nepali 2D Animator for YouTube
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -734,9 +838,9 @@ Best regards
 
 ---
 
-## Gaming & Vlog Thumbnail Creation
+## Engaging Medical Explainer Videos -- 2
 
-Link: https://www.freelancer.com/projects/photoshop/Gaming-Vlog-Thumbnail-Creation
+Link: https://www.freelancer.com/projects/content-creation/Engaging-Medical-Explainer-Videos
 
 Description: 
 
@@ -744,7 +848,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Gaming & Vlog Thumbnail Creation
+I reviewed your project: Engaging Medical Explainer Videos -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -760,9 +864,9 @@ Best regards
 
 ---
 
-## Cinematic Unboxing Edit for YouTube
+## Travel Social Media Growth Manager
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-Unboxing-Edit-for-YouTube
+Link: https://www.freelancer.com/projects/social-media-management/Travel-Social-Media-Growth-Manager
 
 Description: 
 
@@ -770,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Cinematic Unboxing Edit for YouTube
+I reviewed your project: Travel Social Media Growth Manager
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -786,35 +890,9 @@ Best regards
 
 ---
 
-## Dallas HVAC Promo Videos
+## Boost LEGO Product Sales
 
-Link: https://www.freelancer.com/projects/av-editing/Dallas-HVAC-Promo-Videos
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Dallas HVAC Promo Videos
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Build Scalable English Tutor Marketplace
-
-Link: https://www.freelancer.com/projects/web-development/Build-Scalable-English-Tutor-Marketplace
+Link: https://www.freelancer.com/projects/digital-marketing/Boost-LEGO-Product-Sales
 
 Description: 
 
@@ -822,33 +900,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Build Scalable English Tutor Marketplace
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Arabic Social Media Manager Needed
-
-Link: https://www.freelancer.com/projects/b2b-marketing/Arabic-Social-Media-Manager-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Arabic Social Media Manager Needed
+I reviewed your project: Boost LEGO Product Sales
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -916,6 +968,32 @@ Best regards
 
 ---
 
+## Creative Designer and Manager
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Creative-Designer-Manager
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Creative Designer and Manager
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
 ## Engaging Instagram Reels UGC
 
 Link: https://www.freelancer.com/projects/social-media-marketing/Engaging-Instagram-Reels-UGC
@@ -927,136 +1005,6 @@ Description:
 Hello,
 
 I reviewed your project: Engaging Instagram Reels UGC
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## 1st Birthday Capture
-
-Link: https://www.freelancer.com/projects/event-photography/Birthday-Capture
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: 1st Birthday Capture
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Professional Reels Video Editing
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Reels-Video-Editing-40802379
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Professional Reels Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Background Cleanup for 25 Photos
-
-Link: https://www.freelancer.com/projects/background-removal/Background-Cleanup-for-Photos
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Background Cleanup for 25 Photos
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Business Document Proofreading
-
-Link: https://www.freelancer.com/projects/copy-editing/Business-Document-Proofreading
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Business Document Proofreading
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Design a Wix Educational Resource Site
-
-Link: https://www.freelancer.com/projects/website-design/Design-Wix-Educational-Resource-Site
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Design a Wix Educational Resource Site
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
