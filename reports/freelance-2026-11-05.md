@@ -2,13 +2,13 @@
 
 Date: 2026-11-05
 
-Jobs found: 44
+Jobs found: 45
 
 ---
 
-## Wedding Photo Editing
+## IPTV/OTT Server Optimization Expert Needed
 
-Link: https://www.freelancer.com/projects/adobe-photoshop/Wedding-Photo-Editing-40804441
+Link: https://www.freelancer.com/projects/video-streaming/IPTV-OTT-Server-Optimization-Expert
 
 Description: 
 
@@ -16,7 +16,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Wedding Photo Editing
+I reviewed your project: IPTV/OTT Server Optimization Expert Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -32,9 +32,9 @@ Best regards
 
 ---
 
-## Roblox-Style Blender Animation Team
+## vanarts (Vancouver Institute of Media Arts), 333 Terminal Ave #700, Vancouver, BC V6A 4C1, Canada.
 
-Link: https://www.freelancer.com/projects/blender/Roblox-Style-Blender-Animation-Team
+Link: https://www.freelancer.com/projects/photography/vanarts-Vancouver-Institute-Media-Arts
 
 Description: 
 
@@ -42,7 +42,85 @@ Description:
 
 Hello,
 
-I reviewed your project: Roblox-Style Blender Animation Team
+I reviewed your project: vanarts (Vancouver Institute of Media Arts), 333 Terminal Ave #700, Vancouver, BC V6A 4C1, Canada.
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Student Vloggers Needed to Promote Ed tech platform
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Student-Vloggers-Needed-Promote-tech
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Student Vloggers Needed to Promote Ed tech platform
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Data Entry & Website Copywriting
+
+Link: https://www.freelancer.com/projects/copywriting/Data-Entry-Website-Copywriting
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Data Entry & Website Copywriting
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Wedding Photo Editing
+
+Link: https://www.freelancer.com/projects/adobe-photoshop/Wedding-Photo-Editing-40804441
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Wedding Photo Editing
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -448,9 +526,9 @@ Best regards
 
 ---
 
-## Realistic AI Video Creator / Filmmaker Needed – NETME App Commercial 
+## Sales-Boosting Social Media Content
 
-Link: https://www.freelancer.com/projects/ai-video-editing/Realistic-Video-Creator-Filmmaker-Needed
+Link: https://www.freelancer.com/projects/content-creation/Sales-Boosting-Social-Media-Content
 
 Description: 
 
@@ -458,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Realistic AI Video Creator / Filmmaker Needed – NETME App Commercial 
+I reviewed your project: Sales-Boosting Social Media Content
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -474,9 +552,9 @@ Best regards
 
 ---
 
-## Facebook Ads Conversion Specialist
+## Realistic AI Video Creator / Filmmaker Needed – NETME App Commercial 
 
-Link: https://www.freelancer.com/projects/facebook-ads/Facebook-Ads-Conversion-Specialist-40804290
+Link: https://www.freelancer.com/projects/ai-video-editing/Realistic-Video-Creator-Filmmaker-Needed
 
 Description: 
 
@@ -484,7 +562,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Facebook Ads Conversion Specialist
+I reviewed your project: Realistic AI Video Creator / Filmmaker Needed – NETME App Commercial 
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -916,9 +994,9 @@ Best regards
 
 ---
 
-## 15 Reels for Performance Marketing Campaign
+## Facebook Ads Conversion Specialist
 
-Link: https://www.freelancer.com/projects/after-effects/Reels-for-Performance-Marketing-Campaign
+Link: https://www.freelancer.com/projects/facebook-ads/Facebook-Ads-Conversion-Specialist-40804290
 
 Description: 
 
@@ -926,7 +1004,7 @@ Description:
 
 Hello,
 
-I reviewed your project: 15 Reels for Performance Marketing Campaign
+I reviewed your project: Facebook Ads Conversion Specialist
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1057,58 +1135,6 @@ Description:
 Hello,
 
 I reviewed your project:  Proposal for Professional Motion Graphics Video – Real Estate & Hospitality
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Build ClassAction Canva Template System
-
-Link: https://www.freelancer.com/projects/canva/Build-ClassAction-Canva-Template-System
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Build ClassAction Canva Template System
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI Product Image Generator
-
-Link: https://www.freelancer.com/projects/ai-image-generation/Product-Image-Generator
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI Product Image Generator
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
