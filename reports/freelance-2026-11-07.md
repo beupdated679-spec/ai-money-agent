@@ -2,7 +2,163 @@
 
 Date: 2026-11-07
 
-Jobs found: 43
+Jobs found: 45
+
+---
+
+## Emotional AI Short-Video Prompts
+
+Link: https://www.freelancer.com/projects/ai-content-creation/Emotional-Short-Video-Prompts
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Emotional AI Short-Video Prompts
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Elegant Banquet Hall AI Video Ads
+
+Link: https://www.freelancer.com/projects/ai-video-editing/Elegant-Banquet-Hall-Video-Ads
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Elegant Banquet Hall AI Video Ads
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Pengembangan Aplikasi Web E-Learning
+
+Link: https://www.freelancer.com/projects/web-development/Pengembangan-Aplikasi-Web-Learning
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Pengembangan Aplikasi Web E-Learning
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Film Dubbing Voice Actors Needed- Multiple Language artists required
+
+Link: https://www.freelancer.com/projects/voice-acting/Film-Dubbing-Voice-Actors-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Film Dubbing Voice Actors Needed- Multiple Language artists required
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Debate-Spark Video on Science Trust
+
+Link: https://www.freelancer.com/projects/content-creation/Debate-Spark-Video-Science-Trust
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Debate-Spark Video on Science Trust
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Vietnam Electronics Purchasing and Shipping Agent
+
+Link: https://www.freelancer.com/projects/logistics-shipping/Vietnam-Electronics-Purchasing-Shipping
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Vietnam Electronics Purchasing and Shipping Agent
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -374,58 +530,6 @@ Best regards
 
 ---
 
-## 90-Day Real Estate Content Strategy
-
-Link: https://www.freelancer.com/projects/content-marketing/Day-Real-Estate-Content-Strategy
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: 90-Day Real Estate Content Strategy
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
-
-Link: https://www.freelancer.com/projects/blender/Create-Accurate-Models-Two-Existing
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Organic YouTube Growth Expert Needed
 
 Link: https://www.freelancer.com/projects/youtube/Organic-YouTube-Growth-Expert-Needed
@@ -437,58 +541,6 @@ Description:
 Hello,
 
 I reviewed your project: Organic YouTube Growth Expert Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Gmail Calendar VA Support
-
-Link: https://www.freelancer.com/projects/excel/Gmail-Calendar-Support
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Gmail Calendar VA Support
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Professional Instagram Reel Editing - 07/11/2026 04:43 EST
-
-Link: https://www.freelancer.com/projects/after-effects/Professional-Instagram-Reel-Editing-EST
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Professional Instagram Reel Editing - 07/11/2026 04:43 EST
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -920,9 +972,9 @@ Best regards
 
 ---
 
-## Dynamic Travel Video Editor for female travel IG/Tiktok page
+## Hindi Wedding Film & BTS Editor
 
-Link: https://www.freelancer.com/projects/video-editing/Dynamic-Travel-Video-Editor-for
+Link: https://www.freelancer.com/projects/video-upload/Hindi-Wedding-Film-BTS-Editor
 
 Description: 
 
@@ -930,7 +982,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Dynamic Travel Video Editor for female travel IG/Tiktok page
+I reviewed your project: Hindi Wedding Film & BTS Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -946,9 +998,9 @@ Best regards
 
 ---
 
-## Hindi Wedding Film & BTS Editor
+## 90-Day Real Estate Content Strategy
 
-Link: https://www.freelancer.com/projects/video-upload/Hindi-Wedding-Film-BTS-Editor
+Link: https://www.freelancer.com/projects/content-marketing/Day-Real-Estate-Content-Strategy
 
 Description: 
 
@@ -956,7 +1008,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Hindi Wedding Film & BTS Editor
+I reviewed your project: 90-Day Real Estate Content Strategy
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -998,9 +1050,9 @@ Best regards
 
 ---
 
-## Rangkuman Data Bergrafik Dinamis
+## Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
 
-Link: https://www.freelancer.com/projects/data-analysis/Rangkuman-Data-Bergrafik-Dinamis
+Link: https://www.freelancer.com/projects/blender/Create-Accurate-Models-Two-Existing
 
 Description: 
 
@@ -1008,7 +1060,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Rangkuman Data Bergrafik Dinamis
+I reviewed your project: Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1024,9 +1076,9 @@ Best regards
 
 ---
 
-## Fast Narration Audio Generation via Amazon Polly Neural (German - Daniel) – Episode 2 – Fixed $30
+## Professional Instagram Reel Editing - 07/11/2026 04:43 EST
 
-Link: https://www.freelancer.com/projects/audio-editing/Fast-Narration-Audio-Generation-via-40807128
+Link: https://www.freelancer.com/projects/after-effects/Professional-Instagram-Reel-Editing-EST
 
 Description: 
 
@@ -1034,7 +1086,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast Narration Audio Generation via Amazon Polly Neural (German - Daniel) – Episode 2 – Fixed $30
+I reviewed your project: Professional Instagram Reel Editing - 07/11/2026 04:43 EST
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
