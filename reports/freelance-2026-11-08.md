@@ -2,13 +2,13 @@
 
 Date: 2026-11-08
 
-Jobs found: 46
+Jobs found: 49
 
 ---
 
-## Female Content Creator and Video Presenter
+## Social Media Sales Ad Campaign
 
-Link: https://www.freelancer.com/projects/content-creation/Content-Creator-Video-Presenter
+Link: https://www.freelancer.com/projects/facebook-ads/Social-Media-Sales-Campaign-40808540
 
 Description: 
 
@@ -16,7 +16,59 @@ Description:
 
 Hello,
 
-I reviewed your project: Female Content Creator and Video Presenter
+I reviewed your project: Social Media Sales Ad Campaign
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Android RPG Playtest Team Needed
+
+Link: https://www.freelancer.com/projects/game-testing/Android-RPG-Playtest-Team-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Android RPG Playtest Team Needed
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## AI Webtoon Artist for Ongoing Series
+
+Link: https://www.freelancer.com/projects/ai-art-creation/Webtoon-Artist-for-Ongoing-Series
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: AI Webtoon Artist for Ongoing Series
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -488,58 +540,6 @@ Best regards
 
 ---
 
-## Site Verification in Singapore -- 9
-
-Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808381
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Site Verification in Singapore -- 9
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Freelancer Platform Project Manager
-
-Link: https://www.freelancer.com/projects/advertising/Freelancer-Platform-Project-Manager
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Freelancer Platform Project Manager
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Product Research & Sourcing Executive
 
 Link: https://www.freelancer.com/projects/product-research/Product-Research-Sourcing-Executive
@@ -956,6 +956,32 @@ Best regards
 
 ---
 
+## Daily Short-Form Video Editor Needed – Monthly Package (30 Videos/Month)
+
+Link: https://www.freelancer.com/projects/motion-design/Daily-Short-Form-Video-Editor
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Daily Short-Form Video Editor Needed – Monthly Package (30 Videos/Month)
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
 ## Firebase CRM Deployment and Domain Setup
 
 Link: https://www.freelancer.com/projects/web-hosting/Firebase-CRM-Deployment-Domain-Setup
@@ -967,6 +993,58 @@ Description:
 Hello,
 
 I reviewed your project: Firebase CRM Deployment and Domain Setup
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Site Verification in Singapore -- 9
+
+Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808381
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Site Verification in Singapore -- 9
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Freelancer Platform Project Manager
+
+Link: https://www.freelancer.com/projects/advertising/Freelancer-Platform-Project-Manager
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Freelancer Platform Project Manager
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1034,9 +1112,9 @@ Best regards
 
 ---
 
-## Hindi Documentary Facts Video Editor
+## Terrifying Kaiju Roar Alert
 
-Link: https://www.freelancer.com/projects/motion-graphics/Hindi-Documentary-Facts-Video-Editor
+Link: https://www.freelancer.com/projects/animation/Terrifying-Kaiju-Roar-Alert
 
 Description: 
 
@@ -1044,7 +1122,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Hindi Documentary Facts Video Editor
+I reviewed your project: Terrifying Kaiju Roar Alert
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Social Media Growth Manager Needed
+
+Link: https://www.freelancer.com/projects/social-media-management/Social-Media-Growth-Manager-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Social Media Growth Manager Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1138,9 +1242,9 @@ Best regards
 
 ---
 
-## Manajemen Konten IG & TikTok
+## Modul Bahasa Inggris SD Bergambar
 
-Link: https://www.freelancer.com/projects/video-editing/Manajemen-Konten-TikTok
+Link: https://www.freelancer.com/projects/illustration/Modul-Bahasa-Inggris-Bergambar
 
 Description: 
 
@@ -1148,7 +1252,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Manajemen Konten IG & TikTok
+I reviewed your project: Modul Bahasa Inggris SD Bergambar
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1175,32 +1279,6 @@ Description:
 Hello,
 
 I reviewed your project: Secure Legal Speaking Opportunities
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Persian Dental Portal Tutorials
-
-Link: https://www.freelancer.com/projects/video-editing/Persian-Dental-Portal-Tutorials
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Persian Dental Portal Tutorials
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
