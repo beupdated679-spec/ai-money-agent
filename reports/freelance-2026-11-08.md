@@ -1,14 +1,14 @@
 # Freelance Opportunities
 
-Date: 2026-11-07
+Date: 2026-11-08
 
-Jobs found: 43
+Jobs found: 46
 
 ---
 
-## Promosi Produk Kecantikan IG TikTok
+## Female Content Creator and Video Presenter
 
-Link: https://www.freelancer.com/projects/analytics/Promosi-Produk-Kecantikan-TikTok
+Link: https://www.freelancer.com/projects/content-creation/Content-Creator-Video-Presenter
 
 Description: 
 
@@ -16,7 +16,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Promosi Produk Kecantikan IG TikTok
+I reviewed your project: Female Content Creator and Video Presenter
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -32,9 +32,9 @@ Best regards
 
 ---
 
-## Revit Residence Model & Views
+## ELAPROTECH – Complete Interior & Exterior Architectural Design and 3D Visualization of a Modern Laboratory & Medical Equipment Showroom
 
-Link: https://www.freelancer.com/projects/revit/Revit-Residence-Model-Views
+Link: https://www.freelancer.com/projects/3d-design/ELAPROTECH-Complete-Interior-Exterior
 
 Description: 
 
@@ -42,7 +42,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Revit Residence Model & Views
+I reviewed your project: ELAPROTECH – Complete Interior & Exterior Architectural Design and 3D Visualization of a Modern Laboratory & Medical Equipment Showroom
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -58,9 +58,9 @@ Best regards
 
 ---
 
-## Restore Family Photo with Natural Realism
+## Graphics & Short Video Creation
 
-Link: https://www.freelancer.com/projects/adobe-lightroom/Restore-Family-Photo-with-Natural
+Link: https://www.freelancer.com/projects/graphic-design/Graphics-Short-Video-Creation
 
 Description: 
 
@@ -68,7 +68,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Restore Family Photo with Natural Realism
+I reviewed your project: Graphics & Short Video Creation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -84,9 +84,9 @@ Best regards
 
 ---
 
-## Football (Soccer) Video Editor
+## Grow Premium Wellness Brand Social Media
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Football-Soccer-Video-Editor
+Link: https://www.freelancer.com/projects/social-media-management/Grow-Premium-Wellness-Brand-Social
 
 Description: 
 
@@ -94,7 +94,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Football (Soccer) Video Editor
+I reviewed your project: Grow Premium Wellness Brand Social Media
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -110,9 +110,9 @@ Best regards
 
 ---
 
-## Promote free movie/series/anime streaming site on Instagram & TikTok (Reels)
+## Renovasi Total Apartemen Hunian
 
-Link: https://www.freelancer.com/projects/instagram-marketing/Promote-free-movie-series-anime
+Link: https://www.freelancer.com/projects/2d-drafting/Renovasi-Total-Apartemen-Hunian
 
 Description: 
 
@@ -120,7 +120,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Promote free movie/series/anime streaming site on Instagram & TikTok (Reels)
+I reviewed your project: Renovasi Total Apartemen Hunian
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -136,9 +136,9 @@ Best regards
 
 ---
 
-## AI Miracle Biography Short Film
+## AI Video Creator Needed – 20 True Crime Videos (10 Minutes Each)
 
-Link: https://www.freelancer.com/projects/ai-animation/Miracle-Biography-Short-Film
+Link: https://www.freelancer.com/projects/ai-video/Video-Creator-Needed-True-Crime
 
 Description: 
 
@@ -146,7 +146,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI Miracle Biography Short Film
+I reviewed your project: AI Video Creator Needed – 20 True Crime Videos (10 Minutes Each)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -162,9 +162,9 @@ Best regards
 
 ---
 
-## iOS Code Editor App Development
+## Create High-Energy Slots Game Teaser
 
-Link: https://www.freelancer.com/projects/ios-development/iOS-Code-Editor-App-Development
+Link: https://www.freelancer.com/projects/motion-graphics/Create-High-Energy-Slots-Game
 
 Description: 
 
@@ -172,7 +172,7 @@ Description:
 
 Hello,
 
-I reviewed your project: iOS Code Editor App Development
+I reviewed your project: Create High-Energy Slots Game Teaser
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -188,11 +188,9 @@ Best regards
 
 ---
 
-## Website looking like pornhub/netflix design
-There will be just pictures as thumbnails no videos 
-When an user presses the photo thumbnail of the video they want to watch a sign up window will appear 
+## PDF Text Edits & Rewrite
 
-Link: https://www.freelancer.com/projects/web-design/Website-looking-like-pornhub-netflix
+Link: https://www.freelancer.com/projects/adobe-acrobat/PDF-Text-Edits-Rewrite
 
 Description: 
 
@@ -200,9 +198,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Website looking like pornhub/netflix design
-There will be just pictures as thumbnails no videos 
-When an user presses the photo thumbnail of the video they want to watch a sign up window will appear 
+I reviewed your project: PDF Text Edits & Rewrite
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -218,9 +214,9 @@ Best regards
 
 ---
 
-## Document Upload & Payment App
+## Luxury Cake E-Commerce Website
 
-Link: https://www.freelancer.com/projects/react-native/Document-Upload-Payment-App
+Link: https://www.freelancer.com/projects/web-development/Luxury-Cake-Commerce-Website
 
 Description: 
 
@@ -228,7 +224,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Document Upload & Payment App
+I reviewed your project: Luxury Cake E-Commerce Website
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -244,9 +240,9 @@ Best regards
 
 ---
 
-## E-Commerce Ad Creative Mentoring
+## Word/PDF Editing & Data Updates
 
-Link: https://www.freelancer.com/projects/advertising/Commerce-Creative-Mentoring
+Link: https://www.freelancer.com/projects/proofreading/Word-PDF-Editing-Data-Updates
 
 Description: 
 
@@ -254,7 +250,7 @@ Description:
 
 Hello,
 
-I reviewed your project: E-Commerce Ad Creative Mentoring
+I reviewed your project: Word/PDF Editing & Data Updates
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -270,9 +266,9 @@ Best regards
 
 ---
 
-## Tamil Educational Whiteboard Videos
+## Upgrade Existing Podcast Artwork
 
-Link: https://www.freelancer.com/projects/whiteboard-animation/Tamil-Educational-Whiteboard-Videos
+Link: https://www.freelancer.com/projects/adobe-illustrator/Upgrade-Existing-Podcast-Artwork
 
 Description: 
 
@@ -280,7 +276,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Tamil Educational Whiteboard Videos
+I reviewed your project: Upgrade Existing Podcast Artwork
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -296,9 +292,9 @@ Best regards
 
 ---
 
-## Cinematic Wedding & BTS Editing from india only and hindi speaking
+## Foto Produk Promosi Menarik
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-Wedding-BTS-Editing
+Link: https://www.freelancer.com/projects/photography/Foto-Produk-Promosi-Menarik
 
 Description: 
 
@@ -306,7 +302,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Cinematic Wedding & BTS Editing from india only and hindi speaking
+I reviewed your project: Foto Produk Promosi Menarik
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -322,9 +318,9 @@ Best regards
 
 ---
 
-## Brawl Stars Ranked Clip Edit
+## AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)
 
-Link: https://www.freelancer.com/projects/sound-design/Brawl-Stars-Ranked-Clip-Edit
+Link: https://www.freelancer.com/projects/ai-agents/Robotics-Developer-Autonomous-Agent
 
 Description: 
 
@@ -332,7 +328,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Brawl Stars Ranked Clip Edit
+I reviewed your project: AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -348,9 +344,9 @@ Best regards
 
 ---
 
-## Desain Presentasi Canva Edukatif
+## AI-Driven Social Media Strategy
 
-Link: https://www.freelancer.com/projects/music/Desain-Presentasi-Canva-Edukatif
+Link: https://www.freelancer.com/projects/digital-marketing/Driven-Social-Media-Strategy
 
 Description: 
 
@@ -358,7 +354,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Desain Presentasi Canva Edukatif
+I reviewed your project: AI-Driven Social Media Strategy
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -374,9 +370,9 @@ Best regards
 
 ---
 
-## 90-Day Real Estate Content Strategy
+## Hirebot AI Creator Partners Wanted
 
-Link: https://www.freelancer.com/projects/content-marketing/Day-Real-Estate-Content-Strategy
+Link: https://www.freelancer.com/projects/ai-chatbot-development/Hirebot-Creator-Partners-Wanted
 
 Description: 
 
@@ -384,7 +380,7 @@ Description:
 
 Hello,
 
-I reviewed your project: 90-Day Real Estate Content Strategy
+I reviewed your project: Hirebot AI Creator Partners Wanted
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -400,9 +396,16 @@ Best regards
 
 ---
 
-## Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
+## AI video generation in bulk
+- character swap
+- extra things in video
+- different scenes
 
-Link: https://www.freelancer.com/projects/blender/Create-Accurate-Models-Two-Existing
+I'm looking for someone that is able to do these generations for around 3-10 euro video / hourly video generation
+
+We are building several AI influencers and need alo
+
+Link: https://www.freelancer.com/projects/ai-video/video-generation-bulk-character-swap
 
 Description: 
 
@@ -410,7 +413,14 @@ Description:
 
 Hello,
 
-I reviewed your project: Create Accurate 3D Models of Two Existing Houses in Blender from Hand-Drawn Plans
+I reviewed your project: AI video generation in bulk
+- character swap
+- extra things in video
+- different scenes
+
+I'm looking for someone that is able to do these generations for around 3-10 euro video / hourly video generation
+
+We are building several AI influencers and need alo
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -426,9 +436,9 @@ Best regards
 
 ---
 
-## Organic YouTube Growth Expert Needed
+## Skills Showcase Video Creation
 
-Link: https://www.freelancer.com/projects/youtube/Organic-YouTube-Growth-Expert-Needed
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Skills-Showcase-Video-Creation
 
 Description: 
 
@@ -436,7 +446,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Organic YouTube Growth Expert Needed
+I reviewed your project: Skills Showcase Video Creation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -452,9 +462,9 @@ Best regards
 
 ---
 
-## Gmail Calendar VA Support
+## Site Verification in Singapore -- 10
 
-Link: https://www.freelancer.com/projects/excel/Gmail-Calendar-Support
+Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808382
 
 Description: 
 
@@ -462,7 +472,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Gmail Calendar VA Support
+I reviewed your project: Site Verification in Singapore -- 10
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -478,9 +488,9 @@ Best regards
 
 ---
 
-## Professional Instagram Reel Editing - 07/11/2026 04:43 EST
+## Site Verification in Singapore -- 9
 
-Link: https://www.freelancer.com/projects/after-effects/Professional-Instagram-Reel-Editing-EST
+Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808381
 
 Description: 
 
@@ -488,7 +498,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Professional Instagram Reel Editing - 07/11/2026 04:43 EST
+I reviewed your project: Site Verification in Singapore -- 9
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -504,9 +514,9 @@ Best regards
 
 ---
 
-## Creative Video Editor for Social Campaigns
+## Freelancer Platform Project Manager
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Creative-Video-Editor-for-Social-40807152
+Link: https://www.freelancer.com/projects/advertising/Freelancer-Platform-Project-Manager
 
 Description: 
 
@@ -514,7 +524,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Creative Video Editor for Social Campaigns
+I reviewed your project: Freelancer Platform Project Manager
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -530,9 +540,9 @@ Best regards
 
 ---
 
-## Crypto YouTube & Instagram Influencers Wanted: Promote a Free Crypto Bot Paper Test
+## Product Research & Sourcing Executive
 
-Link: https://www.freelancer.com/projects/cryptocurrency/Crypto-YouTube-Instagram-Influencers
+Link: https://www.freelancer.com/projects/product-research/Product-Research-Sourcing-Executive
 
 Description: 
 
@@ -540,7 +550,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Crypto YouTube & Instagram Influencers Wanted: Promote a Free Crypto Bot Paper Test
+I reviewed your project: Product Research & Sourcing Executive
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -556,9 +566,9 @@ Best regards
 
 ---
 
-## Upbeat Hinglish Brand Jingle
+## Drive Secondary Student Sign-Ups
 
-Link: https://www.freelancer.com/projects/music-production/Upbeat-Hinglish-Brand-Jingle
+Link: https://www.freelancer.com/projects/internet-marketing/Drive-Secondary-Student-Sign-Ups
 
 Description: 
 
@@ -566,7 +576,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Upbeat Hinglish Brand Jingle
+I reviewed your project: Drive Secondary Student Sign-Ups
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -582,9 +592,9 @@ Best regards
 
 ---
 
-## High-Impact Social Promo Video Edits
+## YouTube Tutorial Video Editor
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/High-Impact-Social-Promo-Video
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Tutorial-Video-Editor-40808347
 
 Description: 
 
@@ -592,7 +602,7 @@ Description:
 
 Hello,
 
-I reviewed your project: High-Impact Social Promo Video Edits
+I reviewed your project: YouTube Tutorial Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -608,9 +618,9 @@ Best regards
 
 ---
 
-## Clean Hindi Reels & Shorts Editor
+## TikTok & YouTube Affiliate Strategy -- 2
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Clean-Hindi-Reels-Shorts-Editor
+Link: https://www.freelancer.com/projects/affiliate-marketing/TikTok-YouTube-Affiliate-Strategy-40808342
 
 Description: 
 
@@ -618,7 +628,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Clean Hindi Reels & Shorts Editor
+I reviewed your project: TikTok & YouTube Affiliate Strategy -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -634,9 +644,9 @@ Best regards
 
 ---
 
-## Argentina YouTube Premium Renewal
+## Organic Affiliate Promotion Manager for Health ClickBank Product
 
-Link: https://www.freelancer.com/projects/payment-processing/Argentina-YouTube-Premium-Renewal
+Link: https://www.freelancer.com/projects/pinterest/Organic-Affiliate-Promotion-Manager
 
 Description: 
 
@@ -644,7 +654,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Argentina YouTube Premium Renewal
+I reviewed your project: Organic Affiliate Promotion Manager for Health ClickBank Product
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -660,9 +670,9 @@ Best regards
 
 ---
 
-## Build PPCC’s Cricket Teams Social Media platforms Earn and Gain Followers
+## 30-Second Chess Academy Ad
 
-Link: https://www.freelancer.com/projects/social-media-management/Build-PPCC-Cricket-Teams-Social
+Link: https://www.freelancer.com/projects/video-editing/Second-Chess-Academy
 
 Description: 
 
@@ -670,7 +680,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Build PPCC’s Cricket Teams Social Media platforms Earn and Gain Followers
+I reviewed your project: 30-Second Chess Academy Ad
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -686,9 +696,9 @@ Best regards
 
 ---
 
-## Tech Services Lead Generation Campaign
+## Fast Diwali Highlights Video Edit
 
-Link: https://www.freelancer.com/projects/lead-generation/Tech-Services-Lead-Generation-Campaign
+Link: https://www.freelancer.com/projects/color-grading/Fast-Diwali-Highlights-Video-Edit
 
 Description: 
 
@@ -696,7 +706,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Tech Services Lead Generation Campaign
+I reviewed your project: Fast Diwali Highlights Video Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -712,9 +722,9 @@ Best regards
 
 ---
 
-## Video YouTube 10 Menit Kuliner
+## YouTube Storytelling Video Edit with Graphics
 
-Link: https://www.freelancer.com/projects/voice-over/Video-YouTube-Menit-Kuliner
+Link: https://www.freelancer.com/projects/animation/YouTube-Storytelling-Video-Edit-with
 
 Description: 
 
@@ -722,7 +732,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Video YouTube 10 Menit Kuliner
+I reviewed your project: YouTube Storytelling Video Edit with Graphics
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -738,9 +748,9 @@ Best regards
 
 ---
 
-## EdTech Sign-Up Promo Video
+## AI cinematic 90-sec vertical brand video (Higgsfield) – script & shot list ready
 
-Link: https://www.freelancer.com/projects/video-editing/EdTech-Sign-Promo-Video
+Link: https://www.freelancer.com/projects/ai-video/cinematic-sec-vertical-brand-video
 
 Description: 
 
@@ -748,7 +758,7 @@ Description:
 
 Hello,
 
-I reviewed your project: EdTech Sign-Up Promo Video
+I reviewed your project: AI cinematic 90-sec vertical brand video (Higgsfield) – script & shot list ready
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -764,9 +774,9 @@ Best regards
 
 ---
 
-## Campaña Afiliados Servicios Funerarios Chile
+## Editing Konten Sosial Cerah
 
-Link: https://www.freelancer.com/projects/digital-marketing/Campa-Afiliados-Servicios-Funerarios
+Link: https://www.freelancer.com/projects/canva/Editing-Konten-Sosial-Cerah
 
 Description: 
 
@@ -774,7 +784,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Campaña Afiliados Servicios Funerarios Chile
+I reviewed your project: Editing Konten Sosial Cerah
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -790,9 +800,9 @@ Best regards
 
 ---
 
-## WordPress Doula Site Overhaul
+## Bimbingan Kilat Jualan Online - 07/11/2026 21:52 EST
 
-Link: https://www.freelancer.com/projects/website-development/WordPress-Doula-Site-Overhaul
+Link: https://www.freelancer.com/projects/digital-marketing/Bimbingan-Kilat-Jualan-Online-EST
 
 Description: 
 
@@ -800,7 +810,7 @@ Description:
 
 Hello,
 
-I reviewed your project: WordPress Doula Site Overhaul
+I reviewed your project: Bimbingan Kilat Jualan Online - 07/11/2026 21:52 EST
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -816,9 +826,9 @@ Best regards
 
 ---
 
-## Produce AI Playful Mini Romance Dramas
+## Bimbingan Kilat Jualan Online
 
-Link: https://www.freelancer.com/projects/video-editing/Produce-Playful-Mini-Romance-Dramas
+Link: https://www.freelancer.com/projects/digital-marketing/Bimbingan-Kilat-Jualan-Online
 
 Description: 
 
@@ -826,7 +836,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Produce AI Playful Mini Romance Dramas
+I reviewed your project: Bimbingan Kilat Jualan Online
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -842,9 +852,9 @@ Best regards
 
 ---
 
-## Social Media Video Editor
+## Beachwear Design & Manufacturing Partner
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Video-Editor-40806735
+Link: https://www.freelancer.com/projects/product-development/Beachwear-Design-Manufacturing-Partner
 
 Description: 
 
@@ -852,7 +862,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Social Media Video Editor
+I reviewed your project: Beachwear Design & Manufacturing Partner
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -868,9 +878,9 @@ Best regards
 
 ---
 
-## Smooth-Cut YouTube Video Edit
+## AI Social Media Short Videos
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Smooth-Cut-YouTube-Video-Edit
+Link: https://www.freelancer.com/projects/ai-video-editing/Social-Media-Short-Videos
 
 Description: 
 
@@ -878,7 +888,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Smooth-Cut YouTube Video Edit
+I reviewed your project: AI Social Media Short Videos
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -894,9 +904,9 @@ Best regards
 
 ---
 
-## AI YouTube Shorts Production
+## Elegant AI Wedding Venue Ads
 
-Link: https://www.freelancer.com/projects/editing/YouTube-Shorts-Production
+Link: https://www.freelancer.com/projects/ai-video-editing/Elegant-Wedding-Venue-Ads
 
 Description: 
 
@@ -904,7 +914,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI YouTube Shorts Production
+I reviewed your project: Elegant AI Wedding Venue Ads
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -920,9 +930,9 @@ Best regards
 
 ---
 
-## Dynamic Travel Video Editor for female travel IG/Tiktok page
+## Set up an automated system, including pay portal for my online Dating coaching biz. Set up YouTube and video editing with automated Schedule times and through Claude or Perplexity add videos to all social media outlets
 
-Link: https://www.freelancer.com/projects/video-editing/Dynamic-Travel-Video-Editor-for
+Link: https://www.freelancer.com/projects/automation/Set-automated-system-including-pay
 
 Description: 
 
@@ -930,7 +940,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Dynamic Travel Video Editor for female travel IG/Tiktok page
+I reviewed your project: Set up an automated system, including pay portal for my online Dating coaching biz. Set up YouTube and video editing with automated Schedule times and through Claude or Perplexity add videos to all social media outlets
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -946,9 +956,9 @@ Best regards
 
 ---
 
-## Hindi Wedding Film & BTS Editor
+## Firebase CRM Deployment and Domain Setup
 
-Link: https://www.freelancer.com/projects/video-upload/Hindi-Wedding-Film-BTS-Editor
+Link: https://www.freelancer.com/projects/web-hosting/Firebase-CRM-Deployment-Domain-Setup
 
 Description: 
 
@@ -956,7 +966,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Hindi Wedding Film & BTS Editor
+I reviewed your project: Firebase CRM Deployment and Domain Setup
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -972,9 +982,9 @@ Best regards
 
 ---
 
-## Archive Documentary Editor Needed
+## Native Arabic AI Video Creator & Editor (Higgsfield Expert) – 3 Commercial Ads (Strict Character Consistency)
 
-Link: https://www.freelancer.com/projects/av-editing/Archive-Documentary-Editor-Needed
+Link: https://www.freelancer.com/projects/ai-video-editing/Native-Arabic-Video-Creator-Editor
 
 Description: 
 
@@ -982,7 +992,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Archive Documentary Editor Needed
+I reviewed your project: Native Arabic AI Video Creator & Editor (Higgsfield Expert) – 3 Commercial Ads (Strict Character Consistency)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -998,9 +1008,9 @@ Best regards
 
 ---
 
-## Rangkuman Data Bergrafik Dinamis
+## PDF Cleanup & Text Extraction
 
-Link: https://www.freelancer.com/projects/data-analysis/Rangkuman-Data-Bergrafik-Dinamis
+Link: https://www.freelancer.com/projects/scripting/PDF-Cleanup-Text-Extraction
 
 Description: 
 
@@ -1008,7 +1018,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Rangkuman Data Bergrafik Dinamis
+I reviewed your project: PDF Cleanup & Text Extraction
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1024,9 +1034,9 @@ Best regards
 
 ---
 
-## Fast Narration Audio Generation via Amazon Polly Neural (German - Daniel) – Episode 2 – Fixed $30
+## Hindi Documentary Facts Video Editor
 
-Link: https://www.freelancer.com/projects/audio-editing/Fast-Narration-Audio-Generation-via-40807128
+Link: https://www.freelancer.com/projects/motion-graphics/Hindi-Documentary-Facts-Video-Editor
 
 Description: 
 
@@ -1034,7 +1044,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast Narration Audio Generation via Amazon Polly Neural (German - Daniel) – Episode 2 – Fixed $30
+I reviewed your project: Hindi Documentary Facts Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1050,9 +1060,9 @@ Best regards
 
 ---
 
-## Professional Social Media Video Editing -- 2
+## Boost Global Product Sales
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Social-Media-Video-Editing-40807117
+Link: https://www.freelancer.com/projects/digital-marketing/Boost-Global-Product-Sales
 
 Description: 
 
@@ -1060,7 +1070,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Professional Social Media Video Editing -- 2
+I reviewed your project: Boost Global Product Sales
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1076,9 +1086,9 @@ Best regards
 
 ---
 
-## Professional Social Media Video Editing
+## Word Editing, English Proof & Updates
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Social-Media-Video-Editing-40807100
+Link: https://www.freelancer.com/projects/content-writing/Word-Editing-English-Proof-Updates
 
 Description: 
 
@@ -1086,7 +1096,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Professional Social Media Video Editing
+I reviewed your project: Word Editing, English Proof & Updates
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1102,9 +1112,9 @@ Best regards
 
 ---
 
-## No-Code AI Architecture for Curriculum Design, B2B Presenter and Lead AI Trainer (UAE Region Freelancers)
+## Translate English Legal Document
 
-Link: https://www.freelancer.com/projects/ai-training-data/Code-Architecture-for-Curriculum-Design
+Link: https://www.freelancer.com/projects/legal-translation/Translate-English-Legal-Document-40808315
 
 Description: 
 
@@ -1112,7 +1122,85 @@ Description:
 
 Hello,
 
-I reviewed your project: No-Code AI Architecture for Curriculum Design, B2B Presenter and Lead AI Trainer (UAE Region Freelancers)
+I reviewed your project: Translate English Legal Document
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Manajemen Konten IG & TikTok
+
+Link: https://www.freelancer.com/projects/video-editing/Manajemen-Konten-TikTok
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Manajemen Konten IG & TikTok
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Secure Legal Speaking Opportunities
+
+Link: https://www.freelancer.com/projects/research/Secure-Legal-Speaking-Opportunities
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Secure Legal Speaking Opportunities
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Persian Dental Portal Tutorials
+
+Link: https://www.freelancer.com/projects/video-editing/Persian-Dental-Portal-Tutorials
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Persian Dental Portal Tutorials
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
