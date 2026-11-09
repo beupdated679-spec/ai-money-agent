@@ -1,14 +1,14 @@
 # Freelance Opportunities
 
-Date: 2026-11-08
+Date: 2026-11-09
 
-Jobs found: 46
+Jobs found: 48
 
 ---
 
-## Female Content Creator and Video Presenter
+## Multi-Camera Band Video Shoot
 
-Link: https://www.freelancer.com/projects/content-creation/Content-Creator-Video-Presenter
+Link: https://www.freelancer.com/projects/cinematography/Multi-Camera-Band-Video-Shoot
 
 Description: 
 
@@ -16,7 +16,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Female Content Creator and Video Presenter
+I reviewed your project: Multi-Camera Band Video Shoot
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -32,9 +32,9 @@ Best regards
 
 ---
 
-## ELAPROTECH – Complete Interior & Exterior Architectural Design and 3D Visualization of a Modern Laboratory & Medical Equipment Showroom
+## Amazon & META Beauty Product Video Ads  (Two Weeks and 10videos/reels JOB)
 
-Link: https://www.freelancer.com/projects/3d-design/ELAPROTECH-Complete-Interior-Exterior
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Amazon-META-Beauty-Product-Video
 
 Description: 
 
@@ -42,7 +42,7 @@ Description:
 
 Hello,
 
-I reviewed your project: ELAPROTECH – Complete Interior & Exterior Architectural Design and 3D Visualization of a Modern Laboratory & Medical Equipment Showroom
+I reviewed your project: Amazon & META Beauty Product Video Ads  (Two Weeks and 10videos/reels JOB)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -58,9 +58,9 @@ Best regards
 
 ---
 
-## Graphics & Short Video Creation
+## Academic PowerPoint Presentation Outline
 
-Link: https://www.freelancer.com/projects/graphic-design/Graphics-Short-Video-Creation
+Link: https://www.freelancer.com/projects/academic-writing/Academic-PowerPoint-Presentation-Outline
 
 Description: 
 
@@ -68,7 +68,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Graphics & Short Video Creation
+I reviewed your project: Academic PowerPoint Presentation Outline
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -84,9 +84,9 @@ Best regards
 
 ---
 
-## Grow Premium Wellness Brand Social Media
+## Text-Only PDF to Word
 
-Link: https://www.freelancer.com/projects/social-media-management/Grow-Premium-Wellness-Brand-Social
+Link: https://www.freelancer.com/projects/data-entry/Text-Only-PDF-Word
 
 Description: 
 
@@ -94,7 +94,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Grow Premium Wellness Brand Social Media
+I reviewed your project: Text-Only PDF to Word
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -110,9 +110,9 @@ Best regards
 
 ---
 
-## Renovasi Total Apartemen Hunian
+## Polished Wedding Photo Retouching
 
-Link: https://www.freelancer.com/projects/2d-drafting/Renovasi-Total-Apartemen-Hunian
+Link: https://www.freelancer.com/projects/image-processing/Polished-Wedding-Photo-Retouching
 
 Description: 
 
@@ -120,7 +120,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Renovasi Total Apartemen Hunian
+I reviewed your project: Polished Wedding Photo Retouching
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -136,9 +136,9 @@ Best regards
 
 ---
 
-## AI Video Creator Needed – 20 True Crime Videos (10 Minutes Each)
+## 60-Second Concert AI Film
 
-Link: https://www.freelancer.com/projects/ai-video/Video-Creator-Needed-True-Crime
+Link: https://www.freelancer.com/projects/ai-animation/Second-Concert-Film
 
 Description: 
 
@@ -146,7 +146,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI Video Creator Needed – 20 True Crime Videos (10 Minutes Each)
+I reviewed your project: 60-Second Concert AI Film
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -162,9 +162,9 @@ Best regards
 
 ---
 
-## Create High-Energy Slots Game Teaser
+## School Assignment PPT Outline Planning
 
-Link: https://www.freelancer.com/projects/motion-graphics/Create-High-Energy-Slots-Game
+Link: https://www.freelancer.com/projects/content-development/School-Assignment-PPT-Outline-Planning
 
 Description: 
 
@@ -172,7 +172,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Create High-Energy Slots Game Teaser
+I reviewed your project: School Assignment PPT Outline Planning
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -188,9 +188,9 @@ Best regards
 
 ---
 
-## PDF Text Edits & Rewrite
+## Create Adult Dating/Adult Shop website -- 2
 
-Link: https://www.freelancer.com/projects/adobe-acrobat/PDF-Text-Edits-Rewrite
+Link: https://www.freelancer.com/projects/php/Create-Adult-Dating-Adult-Shop
 
 Description: 
 
@@ -198,7 +198,7 @@ Description:
 
 Hello,
 
-I reviewed your project: PDF Text Edits & Rewrite
+I reviewed your project: Create Adult Dating/Adult Shop website -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -214,9 +214,9 @@ Best regards
 
 ---
 
-## Luxury Cake E-Commerce Website
+## Kids Soccer Photo Edit
 
-Link: https://www.freelancer.com/projects/web-development/Luxury-Cake-Commerce-Website
+Link: https://www.freelancer.com/projects/image-processing/Kids-Soccer-Photo-Edit
 
 Description: 
 
@@ -224,7 +224,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Luxury Cake E-Commerce Website
+I reviewed your project: Kids Soccer Photo Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -240,9 +240,9 @@ Best regards
 
 ---
 
-## Word/PDF Editing & Data Updates
+## Branded Captioned Video Edits
 
-Link: https://www.freelancer.com/projects/proofreading/Word-PDF-Editing-Data-Updates
+Link: https://www.freelancer.com/projects/motion-graphics/Branded-Captioned-Video-Edits
 
 Description: 
 
@@ -250,7 +250,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Word/PDF Editing & Data Updates
+I reviewed your project: Branded Captioned Video Edits
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -266,9 +266,9 @@ Best regards
 
 ---
 
-## Upgrade Existing Podcast Artwork
+## Vedic/Jyotish Astrologer for 108 Nakshatra Pada Interpretations
 
-Link: https://www.freelancer.com/projects/adobe-illustrator/Upgrade-Existing-Podcast-Artwork
+Link: https://www.freelancer.com/projects/research-writing/Vedic-Jyotish-Astrologer-for-Nakshatra
 
 Description: 
 
@@ -276,7 +276,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Upgrade Existing Podcast Artwork
+I reviewed your project: Vedic/Jyotish Astrologer for 108 Nakshatra Pada Interpretations
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -292,9 +292,9 @@ Best regards
 
 ---
 
-## Foto Produk Promosi Menarik
+## Cinematic Social Media Video Editing
 
-Link: https://www.freelancer.com/projects/photography/Foto-Produk-Promosi-Menarik
+Link: https://www.freelancer.com/projects/video-post-editing/Cinematic-Social-Media-Video-Editing
 
 Description: 
 
@@ -302,7 +302,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Foto Produk Promosi Menarik
+I reviewed your project: Cinematic Social Media Video Editing
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -318,9 +318,9 @@ Best regards
 
 ---
 
-## AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)
+## YouTube Monetization Appeal Video Creation
 
-Link: https://www.freelancer.com/projects/ai-agents/Robotics-Developer-Autonomous-Agent
+Link: https://www.freelancer.com/projects/script-writing/YouTube-Monetization-Appeal-Video
 
 Description: 
 
@@ -328,7 +328,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI Robotics Developer — Autonomous AI Agent, Personality, Memory & Real-Time Interaction (Jetson Orin NX)
+I reviewed your project: YouTube Monetization Appeal Video Creation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -344,9 +344,9 @@ Best regards
 
 ---
 
-## AI-Driven Social Media Strategy
+## Short-Form Video Editor Needed
 
-Link: https://www.freelancer.com/projects/digital-marketing/Driven-Social-Media-Strategy
+Link: https://www.freelancer.com/projects/capcut/Short-Form-Video-Editor-Needed-40809989
 
 Description: 
 
@@ -354,7 +354,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI-Driven Social Media Strategy
+I reviewed your project: Short-Form Video Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -370,9 +370,9 @@ Best regards
 
 ---
 
-## Hirebot AI Creator Partners Wanted
+## Physics Lecture Video Editor Needed
 
-Link: https://www.freelancer.com/projects/ai-chatbot-development/Hirebot-Creator-Partners-Wanted
+Link: https://www.freelancer.com/projects/video-editing/Physics-Lecture-Video-Editor-Needed
 
 Description: 
 
@@ -380,7 +380,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Hirebot AI Creator Partners Wanted
+I reviewed your project: Physics Lecture Video Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -396,16 +396,9 @@ Best regards
 
 ---
 
-## AI video generation in bulk
-- character swap
-- extra things in video
-- different scenes
+## Photorealistic Industrial Plant CGI Animation
 
-I'm looking for someone that is able to do these generations for around 3-10 euro video / hourly video generation
-
-We are building several AI influencers and need alo
-
-Link: https://www.freelancer.com/projects/ai-video/video-generation-bulk-character-swap
+Link: https://www.freelancer.com/projects/3d-modelling/Photorealistic-Industrial-Plant-CGI
 
 Description: 
 
@@ -413,14 +406,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI video generation in bulk
-- character swap
-- extra things in video
-- different scenes
-
-I'm looking for someone that is able to do these generations for around 3-10 euro video / hourly video generation
-
-We are building several AI influencers and need alo
+I reviewed your project: Photorealistic Industrial Plant CGI Animation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -436,9 +422,9 @@ Best regards
 
 ---
 
-## Skills Showcase Video Creation
+## English–Hindi–Kannada–Tulu Translation
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Skills-Showcase-Video-Creation
+Link: https://www.freelancer.com/projects/translation/English-Hindi-Kannada-Tulu-Translation
 
 Description: 
 
@@ -446,7 +432,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Skills Showcase Video Creation
+I reviewed your project: English–Hindi–Kannada–Tulu Translation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -462,9 +448,9 @@ Best regards
 
 ---
 
-## Site Verification in Singapore -- 10
+## Film Dubbing Voice Actors Needed- Multiple Language artists required
 
-Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808382
+Link: https://www.freelancer.com/projects/voice-acting/Film-Dubbing-Voice-Actors-Needed
 
 Description: 
 
@@ -472,7 +458,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Site Verification in Singapore -- 10
+I reviewed your project: Film Dubbing Voice Actors Needed- Multiple Language artists required
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -488,9 +474,9 @@ Best regards
 
 ---
 
-## Site Verification in Singapore -- 9
+## Spiritual Wedding Video Invitation - Radha Krishna Theme
 
-Link: https://www.freelancer.com/projects/photography/Site-Verification-Singapore-40808381
+Link: https://www.freelancer.com/projects/adobe-creative-cloud/Spiritual-Wedding-Video-Invitation-EST
 
 Description: 
 
@@ -498,7 +484,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Site Verification in Singapore -- 9
+I reviewed your project: Spiritual Wedding Video Invitation - Radha Krishna Theme
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -514,9 +500,9 @@ Best regards
 
 ---
 
-## Freelancer Platform Project Manager
+## Traditional Puja Video Invitation
 
-Link: https://www.freelancer.com/projects/advertising/Freelancer-Platform-Project-Manager
+Link: https://www.freelancer.com/projects/graphic-design/Traditional-Puja-Video-Invitation
 
 Description: 
 
@@ -524,7 +510,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Freelancer Platform Project Manager
+I reviewed your project: Traditional Puja Video Invitation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -540,9 +526,9 @@ Best regards
 
 ---
 
-## Product Research & Sourcing Executive
+## Collaboration Opportunity – Revenue Sharing Model for YouTube Growth
 
-Link: https://www.freelancer.com/projects/product-research/Product-Research-Sourcing-Executive
+Link: https://www.freelancer.com/projects/article-writing/Collaboration-Opportunity-Revenue
 
 Description: 
 
@@ -550,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Product Research & Sourcing Executive
+I reviewed your project: Collaboration Opportunity – Revenue Sharing Model for YouTube Growth
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -566,9 +552,9 @@ Best regards
 
 ---
 
-## Drive Secondary Student Sign-Ups
+## Influencer Marketing Specialist Needed for User Growth
 
-Link: https://www.freelancer.com/projects/internet-marketing/Drive-Secondary-Student-Sign-Ups
+Link: https://www.freelancer.com/projects/influencer-marketing/Influencer-Marketing-Specialist-Needed-40809926
 
 Description: 
 
@@ -576,7 +562,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Drive Secondary Student Sign-Ups
+I reviewed your project: Influencer Marketing Specialist Needed for User Growth
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -592,9 +578,9 @@ Best regards
 
 ---
 
-## YouTube Tutorial Video Editor
+## Editor Video Pendek Sosial Media
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Tutorial-Video-Editor-40808347
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Editor-Video-Pendek-Sosial-Media
 
 Description: 
 
@@ -602,7 +588,7 @@ Description:
 
 Hello,
 
-I reviewed your project: YouTube Tutorial Video Editor
+I reviewed your project: Editor Video Pendek Sosial Media
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -618,9 +604,9 @@ Best regards
 
 ---
 
-## TikTok & YouTube Affiliate Strategy -- 2
+## Professional Social Media Video Editor - 09/11/2026 05:59 EST
 
-Link: https://www.freelancer.com/projects/affiliate-marketing/TikTok-YouTube-Affiliate-Strategy-40808342
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Professional-Social-Media-Video-Editor-40809845
 
 Description: 
 
@@ -628,7 +614,7 @@ Description:
 
 Hello,
 
-I reviewed your project: TikTok & YouTube Affiliate Strategy -- 2
+I reviewed your project: Professional Social Media Video Editor - 09/11/2026 05:59 EST
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -644,9 +630,9 @@ Best regards
 
 ---
 
-## Organic Affiliate Promotion Manager for Health ClickBank Product
+## Creative Facebook Promo Graphics
 
-Link: https://www.freelancer.com/projects/pinterest/Organic-Affiliate-Promotion-Manager
+Link: https://www.freelancer.com/projects/adobe-illustrator/Creative-Facebook-Promo-Graphics
 
 Description: 
 
@@ -654,7 +640,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Organic Affiliate Promotion Manager for Health ClickBank Product
+I reviewed your project: Creative Facebook Promo Graphics
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -670,9 +656,9 @@ Best regards
 
 ---
 
-## 30-Second Chess Academy Ad
+## Polished YouTube Video Editing Needed
 
-Link: https://www.freelancer.com/projects/video-editing/Second-Chess-Academy
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Polished-YouTube-Video-Editing-Needed-40809754
 
 Description: 
 
@@ -680,7 +666,7 @@ Description:
 
 Hello,
 
-I reviewed your project: 30-Second Chess Academy Ad
+I reviewed your project: Polished YouTube Video Editing Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -696,9 +682,9 @@ Best regards
 
 ---
 
-## Fast Diwali Highlights Video Edit
+## Ayakkabı Fabrikası Reels Video Üretimi
 
-Link: https://www.freelancer.com/projects/color-grading/Fast-Diwali-Highlights-Video-Edit
+Link: https://www.freelancer.com/projects/video-production/Ayakkab-Fabrikas-Reels-Video-retimi
 
 Description: 
 
@@ -706,7 +692,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast Diwali Highlights Video Edit
+I reviewed your project: Ayakkabı Fabrikası Reels Video Üretimi
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -722,9 +708,9 @@ Best regards
 
 ---
 
-## YouTube Storytelling Video Edit with Graphics
+## Energetic ₹1-₹1000 Firecracker Edit
 
-Link: https://www.freelancer.com/projects/animation/YouTube-Storytelling-Video-Edit-with
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Energetic-Firecracker-Edit
 
 Description: 
 
@@ -732,7 +718,7 @@ Description:
 
 Hello,
 
-I reviewed your project: YouTube Storytelling Video Edit with Graphics
+I reviewed your project: Energetic ₹1-₹1000 Firecracker Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -748,9 +734,9 @@ Best regards
 
 ---
 
-## AI cinematic 90-sec vertical brand video (Higgsfield) – script & shot list ready
+## British Male Voice Over
 
-Link: https://www.freelancer.com/projects/ai-video/cinematic-sec-vertical-brand-video
+Link: https://www.freelancer.com/projects/voice-acting/British-Male-Voice-Over
 
 Description: 
 
@@ -758,7 +744,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI cinematic 90-sec vertical brand video (Higgsfield) – script & shot list ready
+I reviewed your project: British Male Voice Over
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -774,9 +760,9 @@ Best regards
 
 ---
 
-## Editing Konten Sosial Cerah
+## Shopify Google Ads Cleanup & Rebuild
 
-Link: https://www.freelancer.com/projects/canva/Editing-Konten-Sosial-Cerah
+Link: https://www.freelancer.com/projects/google-ads/Shopify-Google-Ads-Cleanup-Rebuild
 
 Description: 
 
@@ -784,7 +770,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Editing Konten Sosial Cerah
+I reviewed your project: Shopify Google Ads Cleanup & Rebuild
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -800,9 +786,9 @@ Best regards
 
 ---
 
-## Bimbingan Kilat Jualan Online - 07/11/2026 21:52 EST
+## Toddler Dance Instruction Video Creation
 
-Link: https://www.freelancer.com/projects/digital-marketing/Bimbingan-Kilat-Jualan-Online-EST
+Link: https://www.freelancer.com/projects/filmmaking/Toddler-Dance-Instruction-Video-Creation
 
 Description: 
 
@@ -810,7 +796,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Bimbingan Kilat Jualan Online - 07/11/2026 21:52 EST
+I reviewed your project: Toddler Dance Instruction Video Creation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -826,9 +812,9 @@ Best regards
 
 ---
 
-## Bimbingan Kilat Jualan Online
+## Social Media Video Editor
 
-Link: https://www.freelancer.com/projects/digital-marketing/Bimbingan-Kilat-Jualan-Online
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Video-Editor-40809190
 
 Description: 
 
@@ -836,7 +822,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Bimbingan Kilat Jualan Online
+I reviewed your project: Social Media Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -852,9 +838,9 @@ Best regards
 
 ---
 
-## Beachwear Design & Manufacturing Partner
+## Контент-менеджер / Монтажер відео
 
-Link: https://www.freelancer.com/projects/product-development/Beachwear-Design-Manufacturing-Partner
+Link: https://www.freelancer.com/projects/video-editing/project-40809081
 
 Description: 
 
@@ -862,7 +848,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Beachwear Design & Manufacturing Partner
+I reviewed your project: Контент-менеджер / Монтажер відео
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -878,9 +864,9 @@ Best regards
 
 ---
 
-## AI Social Media Short Videos
+## Beach-Chic Teen Collection Design
 
-Link: https://www.freelancer.com/projects/ai-video-editing/Social-Media-Short-Videos
+Link: https://www.freelancer.com/projects/textile-design/Beach-Chic-Teen-Collection-Design
 
 Description: 
 
@@ -888,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: AI Social Media Short Videos
+I reviewed your project: Beach-Chic Teen Collection Design
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -904,9 +890,9 @@ Best regards
 
 ---
 
-## Elegant AI Wedding Venue Ads
+## Film Aventure Vélo Cap Nord-Tarifa
 
-Link: https://www.freelancer.com/projects/ai-video-editing/Elegant-Wedding-Venue-Ads
+Link: https://www.freelancer.com/projects/video-editing/Film-Aventure-Cap-Nord-Tarifa
 
 Description: 
 
@@ -914,7 +900,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Elegant AI Wedding Venue Ads
+I reviewed your project: Film Aventure Vélo Cap Nord-Tarifa
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -930,9 +916,9 @@ Best regards
 
 ---
 
-## Set up an automated system, including pay portal for my online Dating coaching biz. Set up YouTube and video editing with automated Schedule times and through Claude or Perplexity add videos to all social media outlets
+## YouTube Video Editing & Animation
 
-Link: https://www.freelancer.com/projects/automation/Set-automated-system-including-pay
+Link: https://www.freelancer.com/projects/motion-graphics/YouTube-Video-Editing-Animation
 
 Description: 
 
@@ -940,7 +926,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Set up an automated system, including pay portal for my online Dating coaching biz. Set up YouTube and video editing with automated Schedule times and through Claude or Perplexity add videos to all social media outlets
+I reviewed your project: YouTube Video Editing & Animation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -956,9 +942,9 @@ Best regards
 
 ---
 
-## Firebase CRM Deployment and Domain Setup
+## iOS Code Editor 
 
-Link: https://www.freelancer.com/projects/web-hosting/Firebase-CRM-Deployment-Domain-Setup
+Link: https://www.freelancer.com/projects/ios-development/iOS-Code-Editor
 
 Description: 
 
@@ -966,7 +952,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Firebase CRM Deployment and Domain Setup
+I reviewed your project: iOS Code Editor 
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -982,9 +968,9 @@ Best regards
 
 ---
 
-## Native Arabic AI Video Creator & Editor (Higgsfield Expert) – 3 Commercial Ads (Strict Character Consistency)
+## Romantic Pre-Wedding Photo Shoot
 
-Link: https://www.freelancer.com/projects/ai-video-editing/Native-Arabic-Video-Creator-Editor
+Link: https://www.freelancer.com/projects/adobe-photoshop/Romantic-Pre-Wedding-Photo-Shoot
 
 Description: 
 
@@ -992,7 +978,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Native Arabic AI Video Creator & Editor (Higgsfield Expert) – 3 Commercial Ads (Strict Character Consistency)
+I reviewed your project: Romantic Pre-Wedding Photo Shoot
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1008,9 +994,9 @@ Best regards
 
 ---
 
-## PDF Cleanup & Text Extraction
+## Edit Calm Sunrise Reel
 
-Link: https://www.freelancer.com/projects/scripting/PDF-Cleanup-Text-Extraction
+Link: https://www.freelancer.com/projects/av-editing/Edit-Calm-Sunrise-Reel
 
 Description: 
 
@@ -1018,7 +1004,7 @@ Description:
 
 Hello,
 
-I reviewed your project: PDF Cleanup & Text Extraction
+I reviewed your project: Edit Calm Sunrise Reel
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1034,9 +1020,9 @@ Best regards
 
 ---
 
-## Hindi Documentary Facts Video Editor
+## Sports Media Instagram Reel Highlight Editor
 
-Link: https://www.freelancer.com/projects/motion-graphics/Hindi-Documentary-Facts-Video-Editor
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Sports-Media-Instagram-Reel-Highlight
 
 Description: 
 
@@ -1044,7 +1030,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Hindi Documentary Facts Video Editor
+I reviewed your project: Sports Media Instagram Reel Highlight Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1060,9 +1046,9 @@ Best regards
 
 ---
 
-## Boost Global Product Sales
+## Pembuatan Kursus Video Siap Jual
 
-Link: https://www.freelancer.com/projects/digital-marketing/Boost-Global-Product-Sales
+Link: https://www.freelancer.com/projects/content-creation/Pembuatan-Kursus-Video-Siap-Jual
 
 Description: 
 
@@ -1070,7 +1056,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Boost Global Product Sales
+I reviewed your project: Pembuatan Kursus Video Siap Jual
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1086,9 +1072,9 @@ Best regards
 
 ---
 
-## Word Editing, English Proof & Updates
+## Video editing
 
-Link: https://www.freelancer.com/projects/content-writing/Word-Editing-English-Proof-Updates
+Link: https://www.freelancer.com/projects/technical-writing/Video-editing-40809879
 
 Description: 
 
@@ -1096,7 +1082,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Word Editing, English Proof & Updates
+I reviewed your project: Video editing
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1112,9 +1098,9 @@ Best regards
 
 ---
 
-## Translate English Legal Document
+## Video TikTok Quảng Bá Thương Hiệu
 
-Link: https://www.freelancer.com/projects/legal-translation/Translate-English-Legal-Document-40808315
+Link: https://www.freelancer.com/projects/video-editing/Video-TikTok
 
 Description: 
 
@@ -1122,7 +1108,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Translate English Legal Document
+I reviewed your project: Video TikTok Quảng Bá Thương Hiệu
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1138,9 +1124,9 @@ Best regards
 
 ---
 
-## Manajemen Konten IG & TikTok
+## Social Media Video Creation for Artist's Work and Process
 
-Link: https://www.freelancer.com/projects/video-editing/Manajemen-Konten-TikTok
+Link: https://www.freelancer.com/projects/after-effects/Social-Media-Video-Creation-for
 
 Description: 
 
@@ -1148,7 +1134,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Manajemen Konten IG & TikTok
+I reviewed your project: Social Media Video Creation for Artist's Work and Process
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1164,9 +1150,9 @@ Best regards
 
 ---
 
-## Secure Legal Speaking Opportunities
+## IG & TikTok Sales Content
 
-Link: https://www.freelancer.com/projects/research/Secure-Legal-Speaking-Opportunities
+Link: https://www.freelancer.com/projects/content-creation/TikTok-Sales-Content
 
 Description: 
 
@@ -1174,7 +1160,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Secure Legal Speaking Opportunities
+I reviewed your project: IG & TikTok Sales Content
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1190,9 +1176,9 @@ Best regards
 
 ---
 
-## Persian Dental Portal Tutorials
+## Guinea Administrative Support
 
-Link: https://www.freelancer.com/projects/video-editing/Persian-Dental-Portal-Tutorials
+Link: https://www.freelancer.com/projects/administrative-support/Guinea-Administrative-Support
 
 Description: 
 
@@ -1200,7 +1186,59 @@ Description:
 
 Hello,
 
-I reviewed your project: Persian Dental Portal Tutorials
+I reviewed your project: Guinea Administrative Support
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Mumbai Night Video Shoots | ₹2,000 Per Project | Videographer + Editor
+
+Link: https://www.freelancer.com/projects/video-editing/Mumbai-Night-Video-Shoots-Per
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Mumbai Night Video Shoots | ₹2,000 Per Project | Videographer + Editor
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Discreet Kolkata Educational Background Verification
+
+Link: https://www.freelancer.com/projects/field-research/Discreet-Kolkata-Educational-Background
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Discreet Kolkata Educational Background Verification
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
