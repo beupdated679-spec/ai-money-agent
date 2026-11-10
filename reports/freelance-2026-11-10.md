@@ -2,13 +2,13 @@
 
 Date: 2026-11-10
 
-Jobs found: 47
+Jobs found: 49
 
 ---
 
-##    Video Editing for yt 
+## Trust-Building Service Showcase Site
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Video-Editing-for
+Link: https://www.freelancer.com/projects/content-management-system/Trust-Building-Service-Showcase-Site
 
 Description: 
 
@@ -16,7 +16,85 @@ Description:
 
 Hello,
 
-I reviewed your project:    Video Editing for yt 
+I reviewed your project: Trust-Building Service Showcase Site
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Android Free-Play Casino App Launch
+
+Link: https://www.freelancer.com/projects/android/Android-Free-Play-Casino-App
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Android Free-Play Casino App Launch
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Erbil Address Photo Verification Site visit
+
+Link: https://www.freelancer.com/projects/photography/Erbil-Address-Photo-Verification-Site
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Erbil Address Photo Verification Site visit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Miniature Mantra Audio Circuit
+
+Link: https://www.freelancer.com/projects/embedded-systems/Miniature-Mantra-Audio-Circuit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Miniature Mantra Audio Circuit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -448,84 +526,6 @@ Best regards
 
 ---
 
-## Instagram/Facebook Photo & Video Editing
-
-Link: https://www.freelancer.com/projects/photo-editing/Instagram-Facebook-Photo-Video-Editing
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Instagram/Facebook Photo & Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Business Promo Video Editing Needed
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Business-Promo-Video-Editing-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Business Promo Video Editing Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Business Website Build Needed
-
-Link: https://www.freelancer.com/projects/web-development/Business-Website-Build-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Business Website Build Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Social Media VA & Video Editor
 
 Link: https://www.freelancer.com/projects/social-media-management/Social-Media-Video-Editor-40811508
@@ -942,9 +942,9 @@ Best regards
 
 ---
 
-## Mental Health Dance Music Video
+## Ongoing YouTube Videography & Editing Partner
 
-Link: https://www.freelancer.com/projects/video-production/Mental-Health-Dance-Music-Video
+Link: https://www.freelancer.com/projects/video-editing/Ongoing-YouTube-Videography-Editing
 
 Description: 
 
@@ -952,7 +952,111 @@ Description:
 
 Hello,
 
-I reviewed your project: Mental Health Dance Music Video
+I reviewed your project: Ongoing YouTube Videography & Editing Partner
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Custom iOS Roblox Executor.
+
+Link: https://www.freelancer.com/projects/ios/Custom-iOS-Roblox-Executor-40811729
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Custom iOS Roblox Executor.
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Instagram/Facebook Photo & Video Editing
+
+Link: https://www.freelancer.com/projects/photo-editing/Instagram-Facebook-Photo-Video-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Instagram/Facebook Photo & Video Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Business Promo Video Editing Needed
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Business-Promo-Video-Editing-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Business Promo Video Editing Needed
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Business Website Build Needed
+
+Link: https://www.freelancer.com/projects/web-development/Business-Website-Build-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Business Website Build Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1150,32 +1254,6 @@ Best regards
 
 ---
 
-## Google Indexing + Bing  for MolGod.org
-
-Link: https://www.freelancer.com/projects/seo/Google-Indexing-Bing-for-MolGod
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Google Indexing + Bing  for MolGod.org
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Optimize Non-Profit Google Ads
 
 Link: https://www.freelancer.com/projects/google-ads/Optimize-Non-Profit-Google-Ads
@@ -1187,32 +1265,6 @@ Description:
 Hello,
 
 I reviewed your project: Optimize Non-Profit Google Ads
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Urgent Complaint Letter Proofread
-
-Link: https://www.freelancer.com/projects/technical-writing/Urgent-Complaint-Letter-Proofread
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Urgent Complaint Letter Proofread
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
