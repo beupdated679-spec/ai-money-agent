@@ -6,9 +6,9 @@ Jobs found: 49
 
 ---
 
-## Casual Arm-Wrestling Match Video -- 3
+## Swedish Caller: Secure Compliance Meeting
 
-Link: https://www.freelancer.com/projects/video-upload/Casual-Arm-Wrestling-Match-Video-40813358
+Link: https://www.freelancer.com/projects/legal/Swedish-Caller-Secure-Compliance-Meeting
 
 Description: 
 
@@ -16,7 +16,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Casual Arm-Wrestling Match Video -- 3
+I reviewed your project: Swedish Caller: Secure Compliance Meeting
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -32,9 +32,9 @@ Best regards
 
 ---
 
-## Performance-Based Neurosurgery Patient Acquisition
+## Charity Promo Video Production
 
-Link: https://www.freelancer.com/projects/digital-marketing/Performance-Based-Neurosurgery-Patient
+Link: https://www.freelancer.com/projects/av-editing/Charity-Promo-Video-Production
 
 Description: 
 
@@ -42,7 +42,163 @@ Description:
 
 Hello,
 
-I reviewed your project: Performance-Based Neurosurgery Patient Acquisition
+I reviewed your project: Charity Promo Video Production
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Google Sheet word - writing & Editing -- 2
+
+Link: https://www.freelancer.com/projects/copywriting/Google-Sheet-word-writing-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Google Sheet word - writing & Editing -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Private Professional Community Platform
+
+Link: https://www.freelancer.com/projects/website-design/Private-Professional-Community-Platform
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Private Professional Community Platform
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Corporate Event Photo & Video Coverage
+
+Link: https://www.freelancer.com/projects/photography/Corporate-Event-Photo-Video-Coverage-40813381
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Corporate Event Photo & Video Coverage
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Google Sheet word - writing & Editing
+
+Link: https://www.freelancer.com/projects/content-writing/Google-Sheet-word-writing-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Google Sheet word - writing & Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Capture Party Game Reaction Footage
+
+Link: https://www.freelancer.com/projects/game-testing/Capture-Party-Game-Reaction-Footage
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Capture Party Game Reaction Footage
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Casual Arm-Wrestling Match Video -- 3
+
+Link: https://www.freelancer.com/projects/video-upload/Casual-Arm-Wrestling-Match-Video-40813358
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Casual Arm-Wrestling Match Video -- 3
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -370,35 +526,9 @@ Best regards
 
 ---
 
-## Paid Phone Video Task: India Only (Bangalore & Hyderabad)
+## Royal “JAYPAL” Logo Design
 
-Link: https://www.freelancer.com/projects/video-upload/Paid-Phone-Video-Task-India-40812818
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Paid Phone Video Task: India Only (Bangalore & Hyderabad)
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Paid Phone Video Task: India Only (Mumbai & Delhi)
-
-Link: https://www.freelancer.com/projects/video-upload/Paid-Phone-Video-Task-India-40812810
+Link: https://www.freelancer.com/projects/adobe-illustrator/Royal-JAYPAL-Logo-Design
 
 Description: 
 
@@ -406,33 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Paid Phone Video Task: India Only (Mumbai & Delhi)
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Custom Online votes poll
-
-Link: https://www.freelancer.com/projects/api-developmet/Custom-Online-votes-poll
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Custom Online votes poll
+I reviewed your project: Royal “JAYPAL” Logo Design
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -485,32 +589,6 @@ Description:
 Hello,
 
 I reviewed your project: AI Video Creator for Loan & Financial Services Ads
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI Brand Promo Video Series
-
-Link: https://www.freelancer.com/projects/ai-video/Brand-Promo-Video-Series
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI Brand Promo Video Series
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -942,9 +1020,9 @@ Best regards
 
 ---
 
-## Realistic K-Tip Extensions Installation Videos
+## Development of a Modern, Fast & SEO-Friendly Marathi Government Jobs and Exam Updates Website
 
-Link: https://www.freelancer.com/projects/video-production/Realistic-Tip-Extensions-Installation
+Link: https://www.freelancer.com/projects/web-development/Development-Modern-Fast-SEO-Friendly
 
 Description: 
 
@@ -952,7 +1030,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Realistic K-Tip Extensions Installation Videos
+I reviewed your project: Development of a Modern, Fast & SEO-Friendly Marathi Government Jobs and Exam Updates Website
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Custom Online votes poll
+
+Link: https://www.freelancer.com/projects/api-developmet/Custom-Online-votes-poll
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Custom Online votes poll
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -994,9 +1098,9 @@ Best regards
 
 ---
 
-## Cost-Effective Metal Building Strategy
+## Kelola Layanan & Administrasi
 
-Link: https://www.freelancer.com/projects/construction/Cost-Effective-Metal-Building-Strategy
+Link: https://www.freelancer.com/projects/customer-service/Kelola-Layanan-Administrasi
 
 Description: 
 
@@ -1004,7 +1108,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Cost-Effective Metal Building Strategy
+I reviewed your project: Kelola Layanan & Administrasi
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## AI Brand Promo Video Series
+
+Link: https://www.freelancer.com/projects/ai-video/Brand-Promo-Video-Series
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: AI Brand Promo Video Series
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1057,136 +1187,6 @@ Description:
 Hello,
 
 I reviewed your project: Academic Research Review Expert Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Full-Time Female Instagram Manager + Content Creator — Women's Fashion Wholesale (Mumbai Bandra West, In-Office)
-
-Link: https://www.freelancer.com/projects/content-creation/Full-Time-Female-Instagram-Manager
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Full-Time Female Instagram Manager + Content Creator — Women's Fashion Wholesale (Mumbai Bandra West, In-Office)
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## PDF Correction & Plain Rewrite
-
-Link: https://www.freelancer.com/projects/proofreading/PDF-Correction-Plain-Rewrite
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: PDF Correction & Plain Rewrite
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Refine Poem for Private Message
-
-Link: https://www.freelancer.com/projects/poetry/Refine-Poem-for-Private-Message
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Refine Poem for Private Message
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Pelatihan Desain Logo Freelance
-
-Link: https://www.freelancer.com/projects/adobe-illustrator/Pelatihan-Desain-Logo-Freelance
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Pelatihan Desain Logo Freelance
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Admin, Design & Editing Support
-
-Link: https://www.freelancer.com/projects/administrative-support/Admin-Design-Editing-Support
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Admin, Design & Editing Support
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
