@@ -2,7 +2,33 @@
 
 Date: 2026-11-14
 
-Jobs found: 45
+Jobs found: 44
+
+---
+
+## Event Invitation & QR Check-in
+
+Link: https://www.freelancer.com/projects/web-development/Event-Invitation-Check
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Event Invitation & QR Check-in
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -292,32 +318,6 @@ Best regards
 
 ---
 
-## College Project Video Editor Needed -- 2
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/College-Project-Video-Editor-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: College Project Video Editor Needed -- 2
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Optimize LMS Course Video Production
 
 Link: https://www.freelancer.com/projects/after-effects/Optimize-LMS-Course-Video-Production
@@ -511,6 +511,32 @@ Description:
 Hello,
 
 I reviewed your project: Full-Feature SMM Panel Build
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Looking for Performance Marketing Expert to Scale Shopify Store (ColorClaws) -- 2
+
+Link: https://www.freelancer.com/projects/internet-marketing/Looking-for-Performance-Marketing-Expert-40817903
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Looking for Performance Marketing Expert to Scale Shopify Store (ColorClaws) -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -916,32 +942,6 @@ Best regards
 
 ---
 
-##  Video Editing
-
-Link: https://www.freelancer.com/projects/av-editing/Video-Editing-40817130
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project:  Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Healthcare Reels Animation Specialist
 
 Link: https://www.freelancer.com/projects/2d-animation/Healthcare-Reels-Animation-Specialist
@@ -1005,6 +1005,32 @@ Description:
 Hello,
 
 I reviewed your project: Quick Social Media Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Edit My Instagram Reels
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Edit-Instagram-Reels-40817692
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Edit My Instagram Reels
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1098,32 +1124,6 @@ Best regards
 
 ---
 
-## Edit My Instagram Reels
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Edit-Instagram-Reels-40817692
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Edit My Instagram Reels
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## High-Converting Social Media Edit
 
 Link: https://www.freelancer.com/projects/adobe-premiere-pro/High-Converting-Social-Media-Edit
@@ -1135,32 +1135,6 @@ Description:
 Hello,
 
 I reviewed your project: High-Converting Social Media Edit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Elegant Diwali Photo Reel
-
-Link: https://www.freelancer.com/projects/video-production/Elegant-Diwali-Photo-Reel
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Elegant Diwali Photo Reel
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
