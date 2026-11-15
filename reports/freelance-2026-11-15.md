@@ -1,14 +1,14 @@
 # Freelance Opportunities
 
-Date: 2026-11-14
+Date: 2026-11-15
 
-Jobs found: 45
+Jobs found: 39
 
 ---
 
-## Grow Our Couple Instagram Page
+## YouTube Video Editor With Thermal Effects
 
-Link: https://www.freelancer.com/projects/social-media-management/Grow-Our-Couple-Instagram-Page
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Video-Editor-With-Thermal
 
 Description: 
 
@@ -16,7 +16,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Grow Our Couple Instagram Page
+I reviewed your project: YouTube Video Editor With Thermal Effects
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -32,9 +32,9 @@ Best regards
 
 ---
 
-## Full-Service YouTube Content Creation
+## Crochet Motion Auto-Tracking Workflow
 
-Link: https://www.freelancer.com/projects/script-writing/Full-Service-YouTube-Content-Creation
+Link: https://www.freelancer.com/projects/automation/Crochet-Motion-Auto-Tracking-Workflow
 
 Description: 
 
@@ -42,7 +42,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Full-Service YouTube Content Creation
+I reviewed your project: Crochet Motion Auto-Tracking Workflow
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -58,9 +58,9 @@ Best regards
 
 ---
 
-## US Beauty Product Sample Reviews -- 2
+## Cinematic YouTube Video Editing
 
-Link: https://www.freelancer.com/projects/copywriting/Beauty-Product-Sample-Reviews
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-YouTube-Video-Editing-40819136
 
 Description: 
 
@@ -68,7 +68,7 @@ Description:
 
 Hello,
 
-I reviewed your project: US Beauty Product Sample Reviews -- 2
+I reviewed your project: Cinematic YouTube Video Editing
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -84,9 +84,9 @@ Best regards
 
 ---
 
-## Photorealistic Joinery Videos from Photos
+## Data Entry + Video Edit.
 
-Link: https://www.freelancer.com/projects/ai-video-editing/Photorealistic-Joinery-Videos-from
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Data-Entry-Branded-Video-Edits
 
 Description: 
 
@@ -94,7 +94,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Photorealistic Joinery Videos from Photos
+I reviewed your project: Data Entry + Video Edit.
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -110,9 +110,9 @@ Best regards
 
 ---
 
-## US Beauty Product Sample Reviews
+## Coffee Shop Info Website
 
-Link: https://www.freelancer.com/projects/content-writing/Beauty-Product-Sample-Reviews
+Link: https://www.freelancer.com/projects/web-design/Coffee-Shop-Info-Website
 
 Description: 
 
@@ -120,7 +120,7 @@ Description:
 
 Hello,
 
-I reviewed your project: US Beauty Product Sample Reviews
+I reviewed your project: Coffee Shop Info Website
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -136,9 +136,9 @@ Best regards
 
 ---
 
-## Video Editor & Social Media Marketing Manager
+## Live DIY Beauty Challenge Creators
 
-Link: https://www.freelancer.com/projects/content-strategy/Video-Editor-Social-Media-Marketing
+Link: https://www.freelancer.com/projects/content-creation/Live-DIY-Beauty-Challenge-Creators
 
 Description: 
 
@@ -146,7 +146,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Video Editor & Social Media Marketing Manager
+I reviewed your project: Live DIY Beauty Challenge Creators
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -162,9 +162,9 @@ Best regards
 
 ---
 
-## Dynamic Social Media Video Edit
+## Indian Female for Wellness Recording
 
-Link: https://www.freelancer.com/projects/sound-design/Dynamic-Social-Media-Video-Edit
+Link: https://www.freelancer.com/projects/acting/Hindi-Female-Actors-for-Wellness
 
 Description: 
 
@@ -172,7 +172,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Dynamic Social Media Video Edit
+I reviewed your project: Indian Female for Wellness Recording
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -188,9 +188,9 @@ Best regards
 
 ---
 
-## Polish Multi-Cam Wedding Ceremony Video
+## Social Media Video Editor
 
-Link: https://www.freelancer.com/projects/audio-editing/Polish-Multi-Cam-Wedding-Ceremony
+Link: https://www.freelancer.com/projects/instagram/Social-Media-Video-Editor
 
 Description: 
 
@@ -198,7 +198,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Polish Multi-Cam Wedding Ceremony Video
+I reviewed your project: Social Media Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -214,9 +214,9 @@ Best regards
 
 ---
 
-## Secure My Hacked Devices
+## BMW Drift Racing Edit
 
-Link: https://www.freelancer.com/projects/malware-removal/Secure-Hacked-Devices
+Link: https://www.freelancer.com/projects/sound-design/BMW-Drift-Racing-Edit
 
 Description: 
 
@@ -224,7 +224,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Secure My Hacked Devices
+I reviewed your project: BMW Drift Racing Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -240,9 +240,9 @@ Best regards
 
 ---
 
-## Setup Gmail Bisnis Promosi
+## Instant Freelancer Discovery Platform
 
-Link: https://www.freelancer.com/projects/email-marketing/Setup-Gmail-Bisnis-Promosi-40817847
+Link: https://www.freelancer.com/projects/backend-development/Instant-Freelancer-Discovery-Platform
 
 Description: 
 
@@ -250,7 +250,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Setup Gmail Bisnis Promosi
+I reviewed your project: Instant Freelancer Discovery Platform
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -266,9 +266,9 @@ Best regards
 
 ---
 
-##  PDF-to-Word Conversion
+## Cinematic AI Video Editor Needed
 
-Link: https://www.freelancer.com/projects/microsoft-office/PDF-Word-Conversion-40817846
+Link: https://www.freelancer.com/projects/ai-video-editing/Cinematic-Video-Editor-Needed
 
 Description: 
 
@@ -276,7 +276,7 @@ Description:
 
 Hello,
 
-I reviewed your project:  PDF-to-Word Conversion
+I reviewed your project: Cinematic AI Video Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -292,9 +292,9 @@ Best regards
 
 ---
 
-## College Project Video Editor Needed -- 2
+## Engaging YouTube Video Editor
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/College-Project-Video-Editor-Needed
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Engaging-YouTube-Video-Editor-40819085
 
 Description: 
 
@@ -302,7 +302,7 @@ Description:
 
 Hello,
 
-I reviewed your project: College Project Video Editor Needed -- 2
+I reviewed your project: Engaging YouTube Video Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -318,9 +318,9 @@ Best regards
 
 ---
 
-## Optimize LMS Course Video Production
+## Travel Info Website with Budget Estimator
 
-Link: https://www.freelancer.com/projects/after-effects/Optimize-LMS-Course-Video-Production
+Link: https://www.freelancer.com/projects/web-development/Travel-Info-Website-with-Budget
 
 Description: 
 
@@ -328,7 +328,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Optimize LMS Course Video Production
+I reviewed your project: Travel Info Website with Budget Estimator
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -344,9 +344,9 @@ Best regards
 
 ---
 
-## Instagram & Facebook Brand Growth - 14/11/2026 05:44 EST
+## Custom Trap Vocal Preset Build
 
-Link: https://www.freelancer.com/projects/content-creation/Instagram-Facebook-Brand-Growth-EST
+Link: https://www.freelancer.com/projects/audio-engineering/Custom-Trap-Vocal-Preset-Build
 
 Description: 
 
@@ -354,7 +354,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Instagram & Facebook Brand Growth - 14/11/2026 05:44 EST
+I reviewed your project: Custom Trap Vocal Preset Build
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -370,9 +370,9 @@ Best regards
 
 ---
 
-## Boost Reeliso App Downloads
+## Instagram UGC Product Demo Video
 
-Link: https://www.freelancer.com/projects/digital-marketing/Boost-Reeliso-App-Downloads
+Link: https://www.freelancer.com/projects/social-media-marketing/Instagram-UGC-Product-Demo-Video
 
 Description: 
 
@@ -380,7 +380,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Boost Reeliso App Downloads
+I reviewed your project: Instagram UGC Product Demo Video
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -396,9 +396,9 @@ Best regards
 
 ---
 
-## Digital Marketing & Growth Expert Needed to Boost Sales for Ready-Made Web & Mobile App Scripts
+## Convert Web Prototype to Mobile
 
-Link: https://www.freelancer.com/projects/digital-marketing/Digital-Marketing-Growth-Expert-Needed
+Link: https://www.freelancer.com/projects/api-developmet/Convert-Web-Prototype-Mobile
 
 Description: 
 
@@ -406,7 +406,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Digital Marketing & Growth Expert Needed to Boost Sales for Ready-Made Web & Mobile App Scripts
+I reviewed your project: Convert Web Prototype to Mobile
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -422,9 +422,9 @@ Best regards
 
 ---
 
-## Online Rental Boyfriend Platform
+## Penulis Konten Informasi Sosmed
 
-Link: https://www.freelancer.com/projects/web-development/Online-Rental-Boyfriend-Platform-40817761
+Link: https://www.freelancer.com/projects/content-writing/Penulis-Konten-Informasi-Sosmed
 
 Description: 
 
@@ -432,7 +432,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Online Rental Boyfriend Platform
+I reviewed your project: Penulis Konten Informasi Sosmed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -448,9 +448,9 @@ Best regards
 
 ---
 
-## Upscale Low-Res Footage to 4K.  at 6 minutes video upscale to 4k that it with details should be sharp
+## Quick Social Media Video Edit -- 2
 
-Link: https://www.freelancer.com/projects/video-processing/Upscale-Low-Res-Footage-minutes
+Link: https://www.freelancer.com/projects/video-services/Quick-Social-Media-Video-Edit-40819032
 
 Description: 
 
@@ -458,7 +458,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Upscale Low-Res Footage to 4K.  at 6 minutes video upscale to 4k that it with details should be sharp
+I reviewed your project: Quick Social Media Video Edit -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -474,9 +474,9 @@ Best regards
 
 ---
 
-## Reels Video Editor
+## Custom Short Promo Video Edit
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Reels-Video-Editor-40817736
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Custom-Short-Promo-Video-Edit
 
 Description: 
 
@@ -484,7 +484,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Reels Video Editor
+I reviewed your project: Custom Short Promo Video Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -500,9 +500,9 @@ Best regards
 
 ---
 
-## Full-Feature SMM Panel Build
+## Deploy Node.js + PostgreSQL Docker App on AWS (HTTPS, Backups)
 
-Link: https://www.freelancer.com/projects/laravel/Full-Feature-SMM-Panel-Build
+Link: https://www.freelancer.com/projects/nodejs/Deploy-Node-PostgreSQL-Docker-App
 
 Description: 
 
@@ -510,7 +510,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Full-Feature SMM Panel Build
+I reviewed your project: Deploy Node.js + PostgreSQL Docker App on AWS (HTTPS, Backups)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -526,9 +526,9 @@ Best regards
 
 ---
 
-## Eye-Catching Gaming Thumbnail Needed
+## Organic YouTube Growth & Monetization
 
-Link: https://www.freelancer.com/projects/video-editing/Eye-Catching-Gaming-Thumbnail-Needed
+Link: https://www.freelancer.com/projects/content-strategy/Organic-YouTube-Growth-Monetization-40819150
 
 Description: 
 
@@ -536,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Eye-Catching Gaming Thumbnail Needed
+I reviewed your project: Organic YouTube Growth & Monetization
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -552,9 +552,9 @@ Best regards
 
 ---
 
-## Bold YouTube Thumbnail Design
+## AI Editor for YouTube Shorts
 
-Link: https://www.freelancer.com/projects/adobe-photoshop/Bold-YouTube-Thumbnail-Design-40817586
+Link: https://www.freelancer.com/projects/ai-video-editing/Editor-for-YouTube-Shorts
 
 Description: 
 
@@ -562,7 +562,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Bold YouTube Thumbnail Design
+I reviewed your project: AI Editor for YouTube Shorts
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -578,9 +578,9 @@ Best regards
 
 ---
 
-## 2D Kinetic Typography & Technical Motion Graphics Designer (After Effects) — Corporate Product Launch Video
+## Social Media Promotion for Sign-Ups
 
-Link: https://www.freelancer.com/projects/2d-animation/Kinetic-Typography-Technical-Motion
+Link: https://www.freelancer.com/projects/instagram-marketing/Social-Media-Promotion-for-Sign
 
 Description: 
 
@@ -588,7 +588,7 @@ Description:
 
 Hello,
 
-I reviewed your project: 2D Kinetic Typography & Technical Motion Graphics Designer (After Effects) — Corporate Product Launch Video
+I reviewed your project: Social Media Promotion for Sign-Ups
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -604,9 +604,9 @@ Best regards
 
 ---
 
-## Mumbai Fashion Series Videographer (ONLY MUMBAI BASED APPLICANTS)
+## Travel Channel Video Editor ($3-5k)
 
-Link: https://www.freelancer.com/projects/cinematography/Mumbai-Fashion-Series-Videographer
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Travel-Channel-Video-Editor
 
 Description: 
 
@@ -614,7 +614,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Mumbai Fashion Series Videographer (ONLY MUMBAI BASED APPLICANTS)
+I reviewed your project: Travel Channel Video Editor ($3-5k)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -630,9 +630,9 @@ Best regards
 
 ---
 
-## Short-Form Social Media Video Editor
+## Streamlined Gaming Video Edits
 
-Link: https://www.freelancer.com/projects/audio-editing/Short-Form-Social-Media-Video
+Link: https://www.freelancer.com/projects/youtube-video-editing/Streamlined-Gaming-Video-Edits
 
 Description: 
 
@@ -640,7 +640,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Short-Form Social Media Video Editor
+I reviewed your project: Streamlined Gaming Video Edits
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -656,9 +656,9 @@ Best regards
 
 ---
 
-## YouTube Influencer Outreach: Direct Studio Notification Access Required
+## Short-Form Video Editor Needed CHECK BUDGET
 
-Link: https://www.freelancer.com/projects/brand-management/YouTube-Influencer-Outreach-Direct
+Link: https://www.freelancer.com/projects/canva/Short-Form-Video-Editor-Needed-40818916
 
 Description: 
 
@@ -666,7 +666,7 @@ Description:
 
 Hello,
 
-I reviewed your project: YouTube Influencer Outreach: Direct Studio Notification Access Required
+I reviewed your project: Short-Form Video Editor Needed CHECK BUDGET
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -682,9 +682,9 @@ Best regards
 
 ---
 
-## Pixar-Style Telugu AI Video
+## 3D Flight Fare Promo Video
 
-Link: https://www.freelancer.com/projects/ai-animation/Pixar-Style-Telugu-Video
+Link: https://www.freelancer.com/projects/rendering/Flight-Fare-Promo-Video
 
 Description: 
 
@@ -692,7 +692,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Pixar-Style Telugu AI Video
+I reviewed your project: 3D Flight Fare Promo Video
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -708,9 +708,9 @@ Best regards
 
 ---
 
-## Content360 Social Manager
+## Premium 3-7s Logo Music Composition
 
-Link: https://www.freelancer.com/projects/Content-Social-Manager-fix
+Link: https://www.freelancer.com/projects/audio-editing/Premium-Logo-Music-Composition
 
 Description: 
 
@@ -718,7 +718,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Content360 Social Manager
+I reviewed your project: Premium 3-7s Logo Music Composition
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -734,9 +734,9 @@ Best regards
 
 ---
 
-## Daily Instagram & Facebook Reels (15 static ppsts and 15 reels)
+## Long-Form Weight-Loss YouTube Partnership
 
-Link: https://www.freelancer.com/projects/social-media-management/Daily-Instagram-Facebook-Reels-static
+Link: https://www.freelancer.com/projects/youtube/Long-Form-Weight-Loss-YouTube
 
 Description: 
 
@@ -744,7 +744,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Daily Instagram & Facebook Reels (15 static ppsts and 15 reels)
+I reviewed your project: Long-Form Weight-Loss YouTube Partnership
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -760,9 +760,9 @@ Best regards
 
 ---
 
-## Creadores UGC LATAM para Asixto
+## Full-Spectrum Social Growth Campaign
 
-Link: https://www.freelancer.com/projects/content-creation/Creadores-UGC-LATAM-para-Asixto
+Link: https://www.freelancer.com/projects/social-media-marketing/Full-Spectrum-Social-Growth-Campaign
 
 Description: 
 
@@ -770,7 +770,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Creadores UGC LATAM para Asixto
+I reviewed your project: Full-Spectrum Social Growth Campaign
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -786,9 +786,9 @@ Best regards
 
 ---
 
-## iRacing YouTube Editor for Weekly Content
+## Global Video Editing From Provided Footage
 
-Link: https://www.freelancer.com/projects/youtube/iRacing-YouTube-Editor-for-Weekly
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Global-Video-Editing-From-Provided
 
 Description: 
 
@@ -796,7 +796,7 @@ Description:
 
 Hello,
 
-I reviewed your project: iRacing YouTube Editor for Weekly Content
+I reviewed your project: Global Video Editing From Provided Footage
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -812,9 +812,9 @@ Best regards
 
 ---
 
-## Gaming Stream Highlights Editor Needed
+## Organic YouTube Growth for Gaming Channel
 
-Link: https://www.freelancer.com/projects/content-creation/Gaming-Stream-Highlights-Editor-Needed
+Link: https://www.freelancer.com/projects/content-strategy/Organic-YouTube-Growth-for-Gaming
 
 Description: 
 
@@ -822,7 +822,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Gaming Stream Highlights Editor Needed
+I reviewed your project: Organic YouTube Growth for Gaming Channel
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -838,9 +838,9 @@ Best regards
 
 ---
 
-## Daily Instagram Reels Editor
+## Storytelling YouTube Video Editing -- 4
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Daily-Instagram-Reels-Editor-40817206
+Link: https://www.freelancer.com/projects/graphic-design/Storytelling-YouTube-Video-Editing-40818679
 
 Description: 
 
@@ -848,7 +848,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Daily Instagram Reels Editor
+I reviewed your project: Storytelling YouTube Video Editing -- 4
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -864,9 +864,9 @@ Best regards
 
 ---
 
-## High-Retention Forex Video Ads
+## Transcribe Handwritten Notes into Word
 
-Link: https://www.freelancer.com/projects/video-ads/High-Retention-Forex-Video-Ads
+Link: https://www.freelancer.com/projects/microsoft-word/Transcribe-Handwritten-Notes-into-Word
 
 Description: 
 
@@ -874,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: High-Retention Forex Video Ads
+I reviewed your project: Transcribe Handwritten Notes into Word
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -890,9 +890,9 @@ Best regards
 
 ---
 
-## Fast-Paced YouTube Video Edit
+## Instagram Trust-Building Copywriter
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Fast-Paced-YouTube-Video-Edit-40817156
+Link: https://www.freelancer.com/projects/social-media-marketing/Instagram-Trust-Building-Copywriter
 
 Description: 
 
@@ -900,7 +900,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast-Paced YouTube Video Edit
+I reviewed your project: Instagram Trust-Building Copywriter
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -916,9 +916,9 @@ Best regards
 
 ---
 
-##  Video Editing
+## Lead-Focused Interior Reels Strategy
 
-Link: https://www.freelancer.com/projects/av-editing/Video-Editing-40817130
+Link: https://www.freelancer.com/projects/social-media-marketing/Lead-Focused-Interior-Reels-Strategy
 
 Description: 
 
@@ -926,7 +926,7 @@ Description:
 
 Hello,
 
-I reviewed your project:  Video Editing
+I reviewed your project: Lead-Focused Interior Reels Strategy
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -942,9 +942,9 @@ Best regards
 
 ---
 
-## Healthcare Reels Animation Specialist
+## Fotografer Konten Media Sosial
 
-Link: https://www.freelancer.com/projects/2d-animation/Healthcare-Reels-Animation-Specialist
+Link: https://www.freelancer.com/projects/photography/Fotografer-Konten-Media-Sosial
 
 Description: 
 
@@ -952,7 +952,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Healthcare Reels Animation Specialist
+I reviewed your project: Fotografer Konten Media Sosial
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -968,9 +968,9 @@ Best regards
 
 ---
 
-## Short Promo Video Editor Needed
+## SolidWorks Automated Nesting Add-in
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Short-Promo-Video-Editor-Needed-40817700
+Link: https://www.freelancer.com/projects/c-sharp-programming/SolidWorks-Automated-Nesting-Add
 
 Description: 
 
@@ -978,7 +978,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Short Promo Video Editor Needed
+I reviewed your project: SolidWorks Automated Nesting Add-in
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -994,35 +994,9 @@ Best regards
 
 ---
 
-## Quick Social Media Video Edit
+## Storytelling Instagram Reels Editor
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Quick-Social-Media-Video-Edit-40817693
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Quick Social Media Video Edit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## 40-Second Gujarati Blood Camp Reel
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Second-Gujarati-Blood-Camp-Reel
+Link: https://www.freelancer.com/projects/sound-design/Storytelling-Instagram-Reels-Editor
 
 Description: 
 
@@ -1030,137 +1004,7 @@ Description:
 
 Hello,
 
-I reviewed your project: 40-Second Gujarati Blood Camp Reel
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Local Instagram & Facebook Growth
-
-Link: https://www.freelancer.com/projects/content-creation/Local-Instagram-Facebook-Growth
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Local Instagram & Facebook Growth
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Fast-Paced Instagram Reel Edit -- 2
-
-Link: https://www.freelancer.com/projects/av-editing/Fast-Paced-Instagram-Reel-Edit
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Fast-Paced Instagram Reel Edit -- 2
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Edit My Instagram Reels
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Edit-Instagram-Reels-40817692
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Edit My Instagram Reels
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## High-Converting Social Media Edit
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/High-Converting-Social-Media-Edit
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: High-Converting Social Media Edit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Elegant Diwali Photo Reel
-
-Link: https://www.freelancer.com/projects/video-production/Elegant-Diwali-Photo-Reel
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Elegant Diwali Photo Reel
+I reviewed your project: Storytelling Instagram Reels Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
