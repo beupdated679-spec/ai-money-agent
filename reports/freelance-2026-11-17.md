@@ -2,7 +2,241 @@
 
 Date: 2026-11-17
 
-Jobs found: 52
+Jobs found: 45
+
+---
+
+## Disney-Themed Travel Video
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Disney-Themed-Travel-Video
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Disney-Themed Travel Video
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Instagram Reels Audience Growth Campaign
+
+Link: https://www.freelancer.com/projects/audio-services/Instagram-Reels-Audience-Growth-Campaign
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Instagram Reels Audience Growth Campaign
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Bilingual Client Interview Video Call
+
+Link: https://www.freelancer.com/projects/video-conferencing/Bilingual-Client-Interview-Video-Call
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Bilingual Client Interview Video Call
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Build Long-Term Designer Partnerships -- 2
+
+Link: https://www.freelancer.com/projects/graphic-design/Build-Long-Term-Designer-Partnerships
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Build Long-Term Designer Partnerships -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Vienna University of Technology (TU Wien), located at 1040 Vienna, Austria 
+
+Link: https://www.freelancer.com/projects/photography/Vienna-University-Technology-Wien
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Vienna University of Technology (TU Wien), located at 1040 Vienna, Austria 
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## 30-Day Instagram Sales Growth Plan
+
+Link: https://www.freelancer.com/projects/content-creation/Day-Instagram-Sales-Growth-Plan
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: 30-Day Instagram Sales Growth Plan
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Urgent!!! -  Moldex3D RTM Optimization
+
+Link: https://www.freelancer.com/projects/simulation/Urgent-Moldex-RTM-Optimization
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Urgent!!! -  Moldex3D RTM Optimization
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Design 8 High Impact Website Banners
+
+Link: https://www.freelancer.com/projects/web-design/Design-High-Impact-Website-Banners
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Design 8 High Impact Website Banners
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Create Engaging Video Edit
+
+Link: https://www.freelancer.com/projects/video-ads/Create-Engaging-Video-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Create Engaging Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -266,32 +500,6 @@ Best regards
 
 ---
 
-## Bold Instagram App Promos
-
-Link: https://www.freelancer.com/projects/instagram-marketing/Bold-Instagram-App-Promos
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Bold Instagram App Promos
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Funny TikTok Reels Edit
 
 Link: https://www.freelancer.com/projects/adobe-premiere-pro/Funny-TikTok-Reels-Edit
@@ -303,214 +511,6 @@ Description:
 Hello,
 
 I reviewed your project: Funny TikTok Reels Edit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## U.S. Remote Virtual Assistant Needed
-
-Link: https://www.freelancer.com/projects/microsoft-office/Remote-Virtual-Assistant-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: U.S. Remote Virtual Assistant Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Stage Medley Audio Editor Needed
-
-Link: https://www.freelancer.com/projects/audio-editing/Stage-Medley-Audio-Editor-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Stage Medley Audio Editor Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Increase Insulation Thickness in 3D Video
-
-Link: https://www.freelancer.com/projects/video-editing/Increase-Insulation-Thickness-Video
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Increase Insulation Thickness in 3D Video
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Build Your Global Freelance Network
-
-Link: https://www.freelancer.com/projects/digital-marketing/Build-Your-Global-Freelance-Network
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Build Your Global Freelance Network
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Rust E-commerce API Development
-
-Link: https://www.freelancer.com/projects/rust/Rust-commerce-API-Development
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Rust E-commerce API Development
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-##  Zahraa Kamish Occupational Therapy Inc, located at TMC Room, 4th Floor, Melomed Tokai, Corner of Main & Keysers Rd, Tokai, Cape Town, 7945, South Africa.
-
-Link: https://www.freelancer.com/projects/photography/Zahraa-Kamish-Occupational-Therapy-Inc
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project:  Zahraa Kamish Occupational Therapy Inc, located at TMC Room, 4th Floor, Melomed Tokai, Corner of Main & Keysers Rd, Tokai, Cape Town, 7945, South Africa.
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-##  En Kinisi (Physiotherapy Clinic), located at Egnatias 76, Giannitsa, 58100, Greece. 
-
-Link: https://www.freelancer.com/projects/photography/Kinisi-Physiotherapy-Clinic-located
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project:  En Kinisi (Physiotherapy Clinic), located at Egnatias 76, Giannitsa, 58100, Greece. 
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI Reddit Lead Generation Bot
-
-Link: https://www.freelancer.com/projects/ai-chatbot/Reddit-Lead-Generation-Bot
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI Reddit Lead Generation Bot
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -916,58 +916,6 @@ Best regards
 
 ---
 
-## Edit Documentary Video in CapCut
-
-Link: https://www.freelancer.com/projects/av-editing/Edit-Documentary-Video-CapCut
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Edit Documentary Video in CapCut
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Documentary Video Editor Needed
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Documentary-Video-Editor-Needed-40822062
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Documentary Video Editor Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Studio Lifestyle Product Photography
 
 Link: https://www.freelancer.com/projects/ecommerce/Studio-Lifestyle-Product-Photography
@@ -994,9 +942,9 @@ Best regards
 
 ---
 
-## Finish Novel “Insecure” Character Development
+## U.S. Remote Virtual Assistant Needed
 
-Link: https://www.freelancer.com/projects/word-processing/Finish-Novel-Insecure-Character
+Link: https://www.freelancer.com/projects/microsoft-office/Remote-Virtual-Assistant-Needed
 
 Description: 
 
@@ -1004,7 +952,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Finish Novel “Insecure” Character Development
+I reviewed your project: U.S. Remote Virtual Assistant Needed
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Energetic Instagram Reels Edit
+
+Link: https://www.freelancer.com/projects/motion-graphics/Energetic-Instagram-Reels-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Energetic Instagram Reels Edit
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1031,6 +1005,32 @@ Description:
 Hello,
 
 I reviewed your project: Facebook & Instagram Sales Ads
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Stage Medley Audio Editor Needed
+
+Link: https://www.freelancer.com/projects/audio-editing/Stage-Medley-Audio-Editor-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Stage Medley Audio Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1124,162 +1124,6 @@ Best regards
 
 ---
 
-## Professional Music Video Editor Needed for Song Remix & Creative Video Editing
-
-Link: https://www.freelancer.com/projects/av-editing/Professional-Music-Video-Editor-Needed
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Professional Music Video Editor Needed for Song Remix & Creative Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Business Promo Video Editing
-
-Link: https://www.freelancer.com/projects/av-editing/Business-Promo-Video-Editing-40822379
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Business Promo Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI-Generated Realistic Movie
-
-Link: https://www.freelancer.com/projects/ai-video-editing/Generated-Realistic-Movie
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI-Generated Realistic Movie
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Fashion Label Instagram & Facebook Growth
-
-Link: https://www.freelancer.com/projects/content-strategy/Fashion-Label-Instagram-Facebook-Growth
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Fashion Label Instagram & Facebook Growth
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Social Media  Content with Performance Marketing
-
-Link: https://www.freelancer.com/projects/social-media-marketing/Social-Media-Content-with-Performance
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Social Media  Content with Performance Marketing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Gym Instagram Reels Editor
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Gym-Instagram-Reels-Editor
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Gym Instagram Reels Editor
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Chennai Educational Tele-Counselor Needed
 
 Link: https://www.freelancer.com/projects/education-consulting/Chennai-Educational-Tele-Counselor
@@ -1317,32 +1161,6 @@ Description:
 Hello,
 
 I reviewed your project: Credit Repair Sales & Client Onboarding Specialist | DisputeFox Experience Preferred
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## U.S. Government IT Research Analyst
-
-Link: https://www.freelancer.com/projects/research/Government-Research-Analyst
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: U.S. Government IT Research Analyst
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
