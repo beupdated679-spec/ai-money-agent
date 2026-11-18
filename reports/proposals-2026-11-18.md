@@ -1,10 +1,10 @@
-# Shortlisted Freelance Jobs & Proposal Drafts\n\nDate: 2026-11-17\nJobs reviewed: 52\nJobs shortlisted: 10\n\n---\n\n## Viral CapCut Reels Editor Needed\n\nScore: 2\n\nMatched skills: reels, capcut\n\nLink: https://www.freelancer.com/projects/capcut/Viral-CapCut-Reels-Editor-Needed\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+# Shortlisted Freelance Jobs & Proposal Drafts\n\nDate: 2026-11-18\nJobs reviewed: 54\nJobs shortlisted: 10\n\n---\n\n## YouTube Shorts Editor\n\nScore: 2\n\nMatched skills: youtube shorts, shorts\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Shorts-Editor-40824326\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Viral CapCut Reels Editor Needed".
+I’m interested in your project, "YouTube Shorts Editor".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
-to your target audience. Relevant areas include reels, capcut.
+to your target audience. Relevant areas include youtube shorts, shorts.
 
 Before starting, I would confirm the video length, preferred
 style, format, footage/assets, deadline, and any examples
@@ -14,9 +14,9 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Funny TikTok Reels Edit\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Funny-TikTok-Reels-Edit\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## Cinematic Instagram Reels Editor\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/cinematography/Cinematic-Instagram-Reels-Editor\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Funny TikTok Reels Edit".
+I’m interested in your project, "Cinematic Instagram Reels Editor".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
@@ -30,41 +30,9 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Dynamic YouTube Video Editing\n\nScore: 1\n\nMatched skills: video editing\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-YouTube-Video-Editing-40822385\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## Fast-Paced Social Media Video Editor -- 2\n\nScore: 1\n\nMatched skills: social media video\n\nLink: https://www.freelancer.com/projects/video-editing/Fast-Paced-Social-Media-Video-40824286\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Dynamic YouTube Video Editing".
-
-I can help create engaging video content with clear pacing,
-clean cuts, captions/subtitles, and an editing style suited
-to your target audience. Relevant areas include video editing.
-
-Before starting, I would confirm the video length, preferred
-style, format, footage/assets, deadline, and any examples
-you would like me to follow.
-
-I’d be happy to discuss your requirements and deliver a
-sample or first draft if appropriate.
-
-Best regards
-\n\n---\n\n## Editor Video Shorts Santai Natural\n\nScore: 1\n\nMatched skills: shorts\n\nLink: https://www.freelancer.com/projects/color-grading/Editor-Video-Shorts-Santai-Natural\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
-
-I’m interested in your project, "Editor Video Shorts Santai Natural".
-
-I can help create engaging video content with clear pacing,
-clean cuts, captions/subtitles, and an editing style suited
-to your target audience. Relevant areas include shorts.
-
-Before starting, I would confirm the video length, preferred
-style, format, footage/assets, deadline, and any examples
-you would like me to follow.
-
-I’d be happy to discuss your requirements and deliver a
-sample or first draft if appropriate.
-
-Best regards
-\n\n---\n\n## Social Media Video Editor Needed\n\nScore: 1\n\nMatched skills: social media video\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Video-Editor-Needed-40822089\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
-
-I’m interested in your project, "Social Media Video Editor Needed".
+I’m interested in your project, "Fast-Paced Social Media Video Editor -- 2".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
@@ -78,13 +46,13 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Edit Documentary Video in CapCut\n\nScore: 1\n\nMatched skills: capcut\n\nLink: https://www.freelancer.com/projects/av-editing/Edit-Documentary-Video-CapCut\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## TikTok Relatable Humor Shorts\n\nScore: 1\n\nMatched skills: shorts\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/TikTok-Relatable-Humor-Shorts\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Edit Documentary Video in CapCut".
+I’m interested in your project, "TikTok Relatable Humor Shorts".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
-to your target audience. Relevant areas include capcut.
+to your target audience. Relevant areas include shorts.
 
 Before starting, I would confirm the video length, preferred
 style, format, footage/assets, deadline, and any examples
@@ -94,9 +62,25 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Polished Instagram Reels Editing\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/after-effects/Polished-Instagram-Reels-Editing-40822123\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## Social Media Short-Form Video Editing\n\nScore: 1\n\nMatched skills: video editing\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Social-Media-Short-Form-Video-40823914\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Polished Instagram Reels Editing".
+I’m interested in your project, "Social Media Short-Form Video Editing".
+
+I can help create engaging video content with clear pacing,
+clean cuts, captions/subtitles, and an editing style suited
+to your target audience. Relevant areas include video editing.
+
+Before starting, I would confirm the video length, preferred
+style, format, footage/assets, deadline, and any examples
+you would like me to follow.
+
+I’d be happy to discuss your requirements and deliver a
+sample or first draft if appropriate.
+
+Best regards
+\n\n---\n\n## Urgent Reels & Social Management\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/after-effects/Urgent-Reels-Social-Management\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+
+I’m interested in your project, "Urgent Reels & Social Management".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
@@ -110,25 +94,9 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Professional Music Video Editor Needed for Song Remix & Creative Video Editing\n\nScore: 1\n\nMatched skills: video editing\n\nLink: https://www.freelancer.com/projects/av-editing/Professional-Music-Video-Editor-Needed\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## Travel YouTube Video Editing\n\nScore: 1\n\nMatched skills: video editing\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Travel-YouTube-Video-Editing\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Professional Music Video Editor Needed for Song Remix & Creative Video Editing".
-
-I can help create engaging video content with clear pacing,
-clean cuts, captions/subtitles, and an editing style suited
-to your target audience. Relevant areas include video editing.
-
-Before starting, I would confirm the video length, preferred
-style, format, footage/assets, deadline, and any examples
-you would like me to follow.
-
-I’d be happy to discuss your requirements and deliver a
-sample or first draft if appropriate.
-
-Best regards
-\n\n---\n\n## Business Promo Video Editing\n\nScore: 1\n\nMatched skills: video editing\n\nLink: https://www.freelancer.com/projects/av-editing/Business-Promo-Video-Editing-40822379\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
-
-I’m interested in your project, "Business Promo Video Editing".
+I’m interested in your project, "Travel YouTube Video Editing".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
@@ -142,9 +110,41 @@ I’d be happy to discuss your requirements and deliver a
 sample or first draft if appropriate.
 
 Best regards
-\n\n---\n\n## Gym Instagram Reels Editor\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Gym-Instagram-Reels-Editor\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+\n\n---\n\n## Instagram Promotional Reels Editor\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Instagram-Promotional-Reels-Editor\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
 
-I’m interested in your project, "Gym Instagram Reels Editor".
+I’m interested in your project, "Instagram Promotional Reels Editor".
+
+I can help create engaging video content with clear pacing,
+clean cuts, captions/subtitles, and an editing style suited
+to your target audience. Relevant areas include reels.
+
+Before starting, I would confirm the video length, preferred
+style, format, footage/assets, deadline, and any examples
+you would like me to follow.
+
+I’d be happy to discuss your requirements and deliver a
+sample or first draft if appropriate.
+
+Best regards
+\n\n---\n\n## Cinematic Georgia Trip Reels\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/adobe-premiere-pro/Cinematic-Georgia-Trip-Reels\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+
+I’m interested in your project, "Cinematic Georgia Trip Reels".
+
+I can help create engaging video content with clear pacing,
+clean cuts, captions/subtitles, and an editing style suited
+to your target audience. Relevant areas include reels.
+
+Before starting, I would confirm the video length, preferred
+style, format, footage/assets, deadline, and any examples
+you would like me to follow.
+
+I’d be happy to discuss your requirements and deliver a
+sample or first draft if appropriate.
+
+Best regards
+\n\n---\n\n## Instagram Reels Audience Growth Campaign - 18/11/2026 04:15 EST\n\nScore: 1\n\nMatched skills: reels\n\nLink: https://www.freelancer.com/projects/audio-services/Instagram-Reels-Audience-Growth-Campaign-40824085\n\n### Description\n\n\n\n### Proposal draft (review before sending)\n\nHello,
+
+I’m interested in your project, "Instagram Reels Audience Growth Campaign - 18/11/2026 04:15 EST".
 
 I can help create engaging video content with clear pacing,
 clean cuts, captions/subtitles, and an editing style suited
