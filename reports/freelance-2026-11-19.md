@@ -2,7 +2,267 @@
 
 Date: 2026-11-19
 
-Jobs found: 47
+Jobs found: 45
+
+---
+
+## Grow My YouTube Channel to Monetisation
+
+Link: https://www.freelancer.com/projects/video-editing/Grow-YouTube-Channel-Monetisation
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Grow My YouTube Channel to Monetisation
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Plain Background Swap & Denoise Video
+
+Link: https://www.freelancer.com/projects/audio-editing/Plain-Background-Swap-Denoise-Video
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Plain Background Swap & Denoise Video
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Set Up Instagram for Book Series
+
+Link: https://www.freelancer.com/projects/instagram/Set-Instagram-for-Book-Series
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Set Up Instagram for Book Series
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Female Islamic Video Educator Needed - in Malaysia
+
+Link: https://www.freelancer.com/projects/video-production/Female-Islamic-Video-Educator-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Female Islamic Video Educator Needed - in Malaysia
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Humorous Gameplay Video Edit
+
+Link: https://www.freelancer.com/projects/sound-design/Humorous-Gameplay-Video-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Humorous Gameplay Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Penerjemah Inggris-Indonesia
+
+Link: https://www.freelancer.com/projects/translation/Penerjemah-Inggris-Indonesia
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Penerjemah Inggris-Indonesia
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## WordPress Revamped website for Arslan Enginery
+
+Link: https://www.freelancer.com/projects/website-design/WordPress-Revamped-website-for-Arslan
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: WordPress Revamped website for Arslan Enginery
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Home Fast-Bowling Coach Needed
+
+Link: https://www.freelancer.com/projects/sports/Home-Fast-Bowling-Coach-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Home Fast-Bowling Coach Needed
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## YouTube Ad Driving New Sales
+
+Link: https://www.freelancer.com/projects/script-writing/YouTube-Driving-New-Sales
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: YouTube Ad Driving New Sales
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## YouTube Video Editing Help
+
+Link: https://www.freelancer.com/projects/final-cut-pro/YouTube-Video-Editing-Help
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: YouTube Video Editing Help
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -266,9 +526,9 @@ Best regards
 
 ---
 
-## Build and Test IVP Preamp Pedal
+## Hangtechnika Outlet Hibák Shorts
 
-Link: https://www.freelancer.com/projects/electronics/Build-Test-IVP-Preamp-Pedal
+Link: https://www.freelancer.com/projects/video-editing/Hangtechnika-Outlet-Hib-Shorts
 
 Description: 
 
@@ -276,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Build and Test IVP Preamp Pedal
+I reviewed your project: Hangtechnika Outlet Hibák Shorts
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -292,9 +552,9 @@ Best regards
 
 ---
 
-## Edición Natural Videos Instagram y Facebook
+## Influencer Agency Brand Partnerships Lead
 
-Link: https://www.freelancer.com/projects/av-editing/Edici-Natural-Videos-Instagram-Facebook
+Link: https://www.freelancer.com/projects/business-development/Influencer-Agency-Brand-Partnerships
 
 Description: 
 
@@ -302,7 +562,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Edición Natural Videos Instagram y Facebook
+I reviewed your project: Influencer Agency Brand Partnerships Lead
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -318,9 +578,9 @@ Best regards
 
 ---
 
-## Upbeat Female Voiceover Needed
+## Recruit Fitness Influencer Affiliates
 
-Link: https://www.freelancer.com/projects/voice-acting/Upbeat-Female-Voiceover-Needed
+Link: https://www.freelancer.com/projects/influencer-marketing/Recruit-Fitness-Influencer-Affiliates
 
 Description: 
 
@@ -328,7 +588,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Upbeat Female Voiceover Needed
+I reviewed your project: Recruit Fitness Influencer Affiliates
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -396,32 +656,6 @@ Best regards
 
 ---
 
-## Versatile Content Rewriting Support
-
-Link: https://www.freelancer.com/projects/copy-editing/Versatile-Content-Rewriting-Support
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Versatile Content Rewriting Support
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Financial education  Video Editing
 
 Link: https://www.freelancer.com/projects/adobe-premiere-pro/Financial-education-Video-Editing
@@ -433,110 +667,6 @@ Description:
 Hello,
 
 I reviewed your project: Financial education  Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Boost Android Game Ad Revenue
-
-Link: https://www.freelancer.com/projects/analytics/Boost-Android-Game-Revenue
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Boost Android Game Ad Revenue
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Edge AI Motor health analayzer
-
-Link: https://www.freelancer.com/projects/documentation/Edge-Motor-health-analayzer
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Edge AI Motor health analayzer
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Cinematic AI Short Film Visuals
-
-Link: https://www.freelancer.com/projects/ai-video/Cinematic-Short-Film-Visuals
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Cinematic AI Short Film Visuals
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Recruit Fitness Influencer Affiliates
-
-Link: https://www.freelancer.com/projects/influencer-marketing/Recruit-Fitness-Influencer-Affiliates
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Recruit Fitness Influencer Affiliates
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -786,9 +916,9 @@ Best regards
 
 ---
 
-## Panduan Bisnis Konten Online
+## Build and Test IVP Preamp Pedal
 
-Link: https://www.freelancer.com/projects/content-marketing/Panduan-Bisnis-Konten-Online
+Link: https://www.freelancer.com/projects/electronics/Build-Test-IVP-Preamp-Pedal
 
 Description: 
 
@@ -796,7 +926,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Panduan Bisnis Konten Online
+I reviewed your project: Build and Test IVP Preamp Pedal
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -812,35 +942,9 @@ Best regards
 
 ---
 
-## Engaging Social Media Visuals
+## Edición Natural Videos Instagram y Facebook
 
-Link: https://www.freelancer.com/projects/photography/Engaging-Social-Media-Visuals
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Engaging Social Media Visuals
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Kerala Cricket Live Streaming Specialist
-
-Link: https://www.freelancer.com/projects/video-streaming/Kerala-Cricket-Live-Streaming-Specialist
+Link: https://www.freelancer.com/projects/av-editing/Edici-Natural-Videos-Instagram-Facebook
 
 Description: 
 
@@ -848,111 +952,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Kerala Cricket Live Streaming Specialist
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Edit Video Sosial Santai
-
-Link: https://www.freelancer.com/projects/audio-editing/Edit-Video-Sosial-Santai
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Edit Video Sosial Santai
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## ERP SaaS Explainer Video
-
-Link: https://www.freelancer.com/projects/motion-graphics/ERP-SaaS-Explainer-Video
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: ERP SaaS Explainer Video
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## I need a photo editor with experience.
-
-Link: https://www.freelancer.com/projects/adobe-photoshop/need-photo-editor-with-experience
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: I need a photo editor with experience.
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## PDF Retyping & English Spanish  Arabic German Portuguese,Translation
-
-Link: https://www.freelancer.com/projects/english-translation/PDF-Retyping-English-Spanish-Arabic
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: PDF Retyping & English Spanish  Arabic German Portuguese,Translation
+I reviewed your project: Edición Natural Videos Instagram y Facebook
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1046,6 +1046,58 @@ Best regards
 
 ---
 
+## Upbeat Female Voiceover Needed
+
+Link: https://www.freelancer.com/projects/voice-acting/Upbeat-Female-Voiceover-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Upbeat Female Voiceover Needed
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Versatile Content Rewriting Support
+
+Link: https://www.freelancer.com/projects/copy-editing/Versatile-Content-Rewriting-Support
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Versatile Content Rewriting Support
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
 ## Dramatic True Crime Video Editor
 
 Link: https://www.freelancer.com/projects/animation/Dramatic-True-Crime-Video-Editor
@@ -1098,35 +1150,9 @@ Best regards
 
 ---
 
-## Drive Stockholm Retail Growth Through Digital Marketing
+## Bond Market News Website Development
 
-Link: https://www.freelancer.com/projects/digital-marketing/Drive-Stockholm-Retail-Growth-Through
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Drive Stockholm Retail Growth Through Digital Marketing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Cinematic Roblox Video Creation
-
-Link: https://www.freelancer.com/projects/roblox/Cinematic-Roblox-Video-Creation
+Link: https://www.freelancer.com/projects/web-development/Bond-Market-News-Website-Development
 
 Description: 
 
@@ -1134,85 +1160,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Cinematic Roblox Video Creation
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Social Media Growth Specialist Needed
-
-Link: https://www.freelancer.com/projects/digital-marketing/Social-Media-Growth-Specialist-Needed-40825625
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Social Media Growth Specialist Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Dynamic Instagram Reels Editing
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Dynamic-Instagram-Reels-Editing-40825852
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Dynamic Instagram Reels Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Trendy Instagram Reel Editor
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Trendy-Instagram-Reel-Editor-40825833
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Trendy Instagram Reel Editor
+I reviewed your project: Bond Market News Website Development
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
