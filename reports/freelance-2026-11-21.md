@@ -2,13 +2,13 @@
 
 Date: 2026-11-21
 
-Jobs found: 52
+Jobs found: 51
 
 ---
 
-## Online Video Presenter (On-Camera)
+## 1-Minute Romantic Anniversary Reel
 
-Link: https://www.freelancer.com/projects/video-conferencing/Online-Video-Presenter-Camera
+Link: https://www.freelancer.com/projects/av-editing/Minute-Romantic-Anniversary-Reel
 
 Description: 
 
@@ -16,7 +16,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Online Video Presenter (On-Camera)
+I reviewed your project: 1-Minute Romantic Anniversary Reel
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Motivational Clips Editor Needed
+
+Link: https://www.freelancer.com/projects/youtube/Motivational-Clips-Editor-Needed
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Motivational Clips Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -225,32 +251,6 @@ Description:
 Hello,
 
 I reviewed your project: Business Website 
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Video Promosi Jasa Profesional
-
-Link: https://www.freelancer.com/projects/motion-graphics/Video-Promosi-Jasa-Profesional
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Video Promosi Jasa Profesional
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -942,32 +942,6 @@ Best regards
 
 ---
 
-## Thumbnail Design ₹400–₹500
-
-Link: https://www.freelancer.com/projects/adobe-illustrator/Thumbnail-Design-40828314
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Thumbnail Design ₹400–₹500
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Edit Foto Estetik Nuansa Cokelat
 
 Link: https://www.freelancer.com/projects/adobe-lightroom/Edit-Foto-Estetik-Nuansa-Cokelat
@@ -1031,6 +1005,32 @@ Description:
 Hello,
 
 I reviewed your project: Comprehensive Food Enzyme Presentation with a small deck and technical understanding
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Cloud Monitoring & Alerting Setup
+
+Link: https://www.freelancer.com/projects/cloud-monitoring/Cloud-Monitoring-Alerting-Setup
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Cloud Monitoring & Alerting Setup
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1265,32 +1265,6 @@ Description:
 Hello,
 
 I reviewed your project: Instagram Brand Awareness Video Strategy
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Family Welcome Video Editing
-
-Link: https://www.freelancer.com/projects/video-post-editing/Family-Welcome-Video-Editing
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Family Welcome Video Editing
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
