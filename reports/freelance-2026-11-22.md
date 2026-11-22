@@ -6,6 +6,84 @@ Jobs found: 39
 
 ---
 
+## English AI Training Knowledge Interview
+
+Link: https://www.freelancer.com/projects/english-translation/English-Training-Knowledge-Interview
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: English AI Training Knowledge Interview
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Social Video Edit With Animations
+
+Link: https://www.freelancer.com/projects/motion-graphics/Social-Video-Edit-With-Animations
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Social Video Edit With Animations
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## YouTube Rehab Series Shoot & Edit
+
+Link: https://www.freelancer.com/projects/video-post-editing/YouTube-Rehab-Series-Shoot-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: YouTube Rehab Series Shoot & Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
 ## Gaming Video Edits & Thumbnails
 
 Link: https://www.freelancer.com/projects/video-production/Gaming-Video-Edits-Thumbnails
@@ -95,32 +173,6 @@ Description:
 Hello,
 
 I reviewed your project: Python AI Business Data Automation
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI E-Commerce Product Promo Video
-
-Link: https://www.freelancer.com/projects/ai-video-editing/Commerce-Product-Promo-Video
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI E-Commerce Product Promo Video
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -474,58 +526,6 @@ Best regards
 
 ---
 
-## Private Islamic Marital Intimacy Consultations
-
-Link: https://www.freelancer.com/projects/academic-writing/Private-Islamic-Marital-Intimacy
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Private Islamic Marital Intimacy Consultations
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Erotic Adult fiction Stories 
-
-Link: https://www.freelancer.com/projects/editing/Erotic-Adult-fiction-Stories
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Erotic Adult fiction Stories 
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Professional Cycling Kit Design
 
 Link: https://www.freelancer.com/projects/fashion-consulting/Professional-Cycling-Kit-Design
@@ -864,9 +864,9 @@ Best regards
 
 ---
 
-## Fast-Paced Social Clip Edit
+## Drupal 11 Website Relaunch Developer
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Fast-Paced-Social-Clip-Edit
+Link: https://www.freelancer.com/projects/web-development/Drupal-Website-Relaunch-Developer
 
 Description: 
 
@@ -874,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast-Paced Social Clip Edit
+I reviewed your project: Drupal 11 Website Relaunch Developer
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -890,9 +890,9 @@ Best regards
 
 ---
 
-## Drupal 11 Website Relaunch Developer
+## Private Islamic Marital Intimacy Consultations
 
-Link: https://www.freelancer.com/projects/web-development/Drupal-Website-Relaunch-Developer
+Link: https://www.freelancer.com/projects/academic-writing/Private-Islamic-Marital-Intimacy
 
 Description: 
 
@@ -900,7 +900,59 @@ Description:
 
 Hello,
 
-I reviewed your project: Drupal 11 Website Relaunch Developer
+I reviewed your project: Private Islamic Marital Intimacy Consultations
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Erotic Adult fiction Stories 
+
+Link: https://www.freelancer.com/projects/editing/Erotic-Adult-fiction-Stories
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Erotic Adult fiction Stories 
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Help me build a personal brand on social media eventually replacing my 9-5
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Help-build-personal-brand-social
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Help me build a personal brand on social media eventually replacing my 9-5
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -953,58 +1005,6 @@ Description:
 Hello,
 
 I reviewed your project: AI Virtual Clothing Try-On
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Help me build a personal brand on social media eventually replacing my 9-5
-
-Link: https://www.freelancer.com/projects/social-media-marketing/Help-build-personal-brand-social
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Help me build a personal brand on social media eventually replacing my 9-5
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Need explanation and research assignment assistance through video consultation lectures on the following topics reproductive anatomy, menstruation ,puberty ,hormones, physiology ,sexuality and sexual health.   -- 2
-
-Link: https://www.freelancer.com/projects/education-tutoring/Need-explanation-research-assignment
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Need explanation and research assignment assistance through video consultation lectures on the following topics reproductive anatomy, menstruation ,puberty ,hormones, physiology ,sexuality and sexual health.   -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
