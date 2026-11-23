@@ -6,9 +6,9 @@ Jobs found: 43
 
 ---
 
-## Growth Chart Photo Merge
+## Video Editing for Social Media
 
-Link: https://www.freelancer.com/projects/print-design/Growth-Chart-Photo-Merge
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Video-Editing-for-Social-Media-40832139
 
 Description: 
 
@@ -16,7 +16,111 @@ Description:
 
 Hello,
 
-I reviewed your project: Growth Chart Photo Merge
+I reviewed your project: Video Editing for Social Media
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Digital Artist Needed for Precise Illustration Retouching — Preserve Original Artwork  -- 2
+
+Link: https://www.freelancer.com/projects/illustrator/Digital-Artist-Needed-for-Precise
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Digital Artist Needed for Precise Illustration Retouching — Preserve Original Artwork  -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## AI Short-Video Marketing Assistant
+
+Link: https://www.freelancer.com/projects/after-effects/Short-Video-Marketing-Assistant
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: AI Short-Video Marketing Assistant
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## High-Fashion Music Video Model
+
+Link: https://www.freelancer.com/projects/fashion-design/High-Fashion-Music-Video-Model
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: High-Fashion Music Video Model
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Video Editor for Hindi Family Story Videos — One Short Trial, then Per-Video Long Videos
+
+Link: https://www.freelancer.com/projects/capcut/Video-Editor-for-Hindi-Family
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Video Editor for Hindi Family Story Videos — One Short Trial, then Per-Video Long Videos
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -318,32 +422,6 @@ Best regards
 
 ---
 
-## AI Illustrated Story Video Creation
-
-Link: https://www.freelancer.com/projects/ai-art-creation/Illustrated-Story-Video-Creation
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI Illustrated Story Video Creation
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## AI-Styled WordPress Site Overhaul
 
 Link: https://www.freelancer.com/projects/mobile-app-development/Styled-WordPress-Site-Overhaul
@@ -448,9 +526,9 @@ Best regards
 
 ---
 
-## Face Video Recording Project: Middle Eastern/North African -- 2
+## Florida Golf Videographer Needed -- 3
 
-Link: https://www.freelancer.com/projects/face-recognition/Face-Video-Recording-Project-Middle
+Link: https://www.freelancer.com/projects/videography/Florida-Golf-Videographer-Needed-40828625
 
 Description: 
 
@@ -458,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Face Video Recording Project: Middle Eastern/North African -- 2
+I reviewed your project: Florida Golf Videographer Needed -- 3
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -474,9 +552,9 @@ Best regards
 
 ---
 
-## Face Video Recording Project: Hispanic/Latino -- 2
+## Florida Golf Videographer Needed
 
-Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Hispanic
+Link: https://www.freelancer.com/projects/videography/Florida-Golf-Videographer-Needed
 
 Description: 
 
@@ -484,7 +562,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Face Video Recording Project: Hispanic/Latino -- 2
+I reviewed your project: Florida Golf Videographer Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -500,9 +578,9 @@ Best regards
 
 ---
 
-## Face Video Recording Project: Black/African American -- 2
+## Florida Golf Videographer Needed -- 2
 
-Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Black
+Link: https://www.freelancer.com/projects/videography/Florida-Golf-Videographer-Needed-40828624
 
 Description: 
 
@@ -510,7 +588,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Face Video Recording Project: Black/African American -- 2
+I reviewed your project: Florida Golf Videographer Needed -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -526,9 +604,9 @@ Best regards
 
 ---
 
-## Fast-Paced YouTube Business Edits
+## Female Gospel Choir Recording
 
-Link: https://www.freelancer.com/projects/youtube/Fast-Paced-YouTube-Business-Edits
+Link: https://www.freelancer.com/projects/av-editing/Female-Gospel-Choir-Recording
 
 Description: 
 
@@ -536,7 +614,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Fast-Paced YouTube Business Edits
+I reviewed your project: Female Gospel Choir Recording
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -786,9 +864,9 @@ Best regards
 
 ---
 
-## Daily Product Sales Videos
+## Face Video Recording Project: Middle Eastern/North African -- 2
 
-Link: https://www.freelancer.com/projects/motion-graphics/Daily-Product-Sales-Videos
+Link: https://www.freelancer.com/projects/face-recognition/Face-Video-Recording-Project-Middle
 
 Description: 
 
@@ -796,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Daily Product Sales Videos
+I reviewed your project: Face Video Recording Project: Middle Eastern/North African -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -812,9 +890,9 @@ Best regards
 
 ---
 
-## Create Branded Social Media Clips
+## Face Video Recording Project: Hispanic/Latino -- 2
 
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Create-Branded-Social-Media-Clips
+Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Hispanic
 
 Description: 
 
@@ -822,7 +900,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Create Branded Social Media Clips
+I reviewed your project: Face Video Recording Project: Hispanic/Latino -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -838,9 +916,9 @@ Best regards
 
 ---
 
-## youtube banner and crt thumbnails
+## Playful Streetwear IG Captions
 
-Link: https://www.freelancer.com/projects/adobe-photoshop/youtube-banner-crt-thumbnails
+Link: https://www.freelancer.com/projects/animation/Playful-Streetwear-Captions
 
 Description: 
 
@@ -848,7 +926,7 @@ Description:
 
 Hello,
 
-I reviewed your project: youtube banner and crt thumbnails
+I reviewed your project: Playful Streetwear IG Captions
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -864,35 +942,9 @@ Best regards
 
 ---
 
-## Simple YouTube Vlog Editing
+## Unreal GTA-Style RP World
 
-Link: https://www.freelancer.com/projects/youtube/Simple-YouTube-Vlog-Editing
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Simple YouTube Vlog Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## High-Energy TikTok Shorts Editor
-
-Link: https://www.freelancer.com/projects/sound-design/High-Energy-TikTok-Shorts-Editor
+Link: https://www.freelancer.com/projects/unreal-engine/Unreal-GTA-Style-World
 
 Description: 
 
@@ -900,33 +952,7 @@ Description:
 
 Hello,
 
-I reviewed your project: High-Energy TikTok Shorts Editor
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Face Video Recording Project: Native Hawaiian/Pacific Islander -- 2
-
-Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Native
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Face Video Recording Project: Native Hawaiian/Pacific Islander -- 2
+I reviewed your project: Unreal GTA-Style RP World
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -953,6 +979,58 @@ Description:
 Hello,
 
 I reviewed your project: Drive Sales via Social Media
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Face Video Recording Project: Black/African American -- 2
+
+Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Black
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Face Video Recording Project: Black/African American -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Face Video Recording Project: Native Hawaiian/Pacific Islander -- 2
+
+Link: https://www.freelancer.com/projects/video-services/Face-Video-Recording-Project-Native
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Face Video Recording Project: Native Hawaiian/Pacific Islander -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1005,84 +1083,6 @@ Description:
 Hello,
 
 I reviewed your project: Face Video Recording Project: White/Caucasian -- 2
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Luxury Jewelry Brand Social Media Manager
-
-Link: https://www.freelancer.com/projects/social-media-management/Luxury-Jewelry-Brand-Social-Media
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Luxury Jewelry Brand Social Media Manager
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Marketing Digital Restaurante Málaga 
-
-Link: https://www.freelancer.com/projects/digital-marketing/Marketing-Digital-Restaurante-laga
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Marketing Digital Restaurante Málaga 
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Food Review Reels Editor
-
-Link: https://www.freelancer.com/projects/adobe-premiere-pro/Food-Review-Reels-Editor
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Food Review Reels Editor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
