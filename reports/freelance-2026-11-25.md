@@ -6,9 +6,9 @@ Jobs found: 58
 
 ---
 
-## PDF-to-Word Conversion
+## Premiere Pro Basic Editing Lessons
 
-Link: https://www.freelancer.com/projects/microsoft-word/PDF-Word-Conversion-40835502
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Premiere-Pro-Basic-Editing-Lessons
 
 Description: 
 
@@ -16,7 +16,215 @@ Description:
 
 Hello,
 
-I reviewed your project: PDF-to-Word Conversion
+I reviewed your project: Premiere Pro Basic Editing Lessons
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Realistic Sales Video Ad
+
+Link: https://www.freelancer.com/projects/video-editing/Realistic-Sales-Video
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Realistic Sales Video Ad
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## YouTube Weather News Video Edit
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Weather-News-Video-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: YouTube Weather News Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Chinese Mobile MMORPG Source Code
+
+Link: https://www.freelancer.com/projects/unity/Chinese-Mobile-MMORPG-Source-Code
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Chinese Mobile MMORPG Source Code
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Social Media Product Video Creation
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Social-Media-Product-Video-Creation
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Social Media Product Video Creation
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Real-World Human Activity Videos from Latin America for AI Training (Existing or New Footage)
+
+Link: https://www.freelancer.com/projects/videography/Real-World-Human-Activity-Videos-40835509
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Real-World Human Activity Videos from Latin America for AI Training (Existing or New Footage)
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Complete Dark Fantasy Video Production
+
+Link: https://www.freelancer.com/projects/ai-video-editing/Complete-Dark-Fantasy-Video-Production
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Complete Dark Fantasy Video Production
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Real-World Human Activity Videos from the Philippines for AI Training (Existing or New Footage)
+
+Link: https://www.freelancer.com/projects/videography/Real-World-Human-Activity-Videos-40835508
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Real-World Human Activity Videos from the Philippines for AI Training (Existing or New Footage)
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Real-World Human Activity Videos from India for AI Training (Existing Footage or New Recording)
+
+Link: https://www.freelancer.com/projects/videography/Real-World-Human-Activity-Videos
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Real-World Human Activity Videos from India for AI Training (Existing Footage or New Recording)
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -147,32 +355,6 @@ Description:
 Hello,
 
 I reviewed your project: Ongoing Travel Vlog Video Editor
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Beginner Online Content Writer Wanted
-
-Link: https://www.freelancer.com/projects/seo-writing/Beginner-Online-Content-Writer-Wanted
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Beginner Online Content Writer Wanted
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -344,9 +526,9 @@ Best regards
 
 ---
 
-## Life Coach Social Media Content Manager
+## Pitch to South Indian Playlists
 
-Link: https://www.freelancer.com/projects/social-media-management/Life-Coach-Social-Media-Content
+Link: https://www.freelancer.com/projects/social-media-marketing/Pitch-South-Indian-Playlists
 
 Description: 
 
@@ -354,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Life Coach Social Media Content Manager
+I reviewed your project: Pitch to South Indian Playlists
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -381,162 +563,6 @@ Description:
 Hello,
 
 I reviewed your project: Edit 36 Clean-Cut Reels
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## US Walmart Unboxing Documentation US Buyer Only
-
-Link: https://www.freelancer.com/projects/photography/Walmart-Unboxing-Documentation-Buyer
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: US Walmart Unboxing Documentation US Buyer Only
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Comprehensive Pet Care App
-
-Link: https://www.freelancer.com/projects/ios-development/Comprehensive-Pet-Care-App
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Comprehensive Pet Care App
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Cinematic AI Video Editor Needed
-
-Link: https://www.freelancer.com/projects/ai-video-editing/Cinematic-Video-Editor-Needed-40835345
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Cinematic AI Video Editor Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Bilingual Anime Video Production
-
-Link: https://www.freelancer.com/projects/2d-animation/Bilingual-Anime-Video-Production
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Bilingual Anime Video Production
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## US-Based Multilingual Video Data Collection – 9 Languages | On Camera Spokesperson
-
-Link: https://www.freelancer.com/projects/voice-talent/Based-Multilingual-Video-Data-Collection
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: US-Based Multilingual Video Data Collection – 9 Languages | On Camera Spokesperson
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Pitch to South Indian Playlists
-
-Link: https://www.freelancer.com/projects/social-media-marketing/Pitch-South-Indian-Playlists
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Pitch to South Indian Playlists
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -968,35 +994,9 @@ Best regards
 
 ---
 
-## Organic YouTube Watch-Time Boost
+## Life Coach Social Media Content Manager
 
-Link: https://www.freelancer.com/projects/content-strategy/Organic-YouTube-Watch-Time-Boost
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Organic YouTube Watch-Time Boost
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Property Finance Power BI Dashboard
-
-Link: https://www.freelancer.com/projects/power-bi/Property-Finance-Power-Dashboard
+Link: https://www.freelancer.com/projects/social-media-management/Life-Coach-Social-Media-Content
 
 Description: 
 
@@ -1004,33 +1004,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Property Finance Power BI Dashboard
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## VIXGEN DIGITAL Premium Agency Website -- 2
-
-Link: https://www.freelancer.com/projects/web-development/VIXGEN-DIGITAL-Premium-Agency-Website
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: VIXGEN DIGITAL Premium Agency Website -- 2
+I reviewed your project: Life Coach Social Media Content Manager
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1072,9 +1046,9 @@ Best regards
 
 ---
 
-## Lead-Generating Business Website Build
+## Cinematic AI Video Editor Needed
 
-Link: https://www.freelancer.com/projects/web-design/Lead-Generating-Business-Website-Build-40835321
+Link: https://www.freelancer.com/projects/ai-video-editing/Cinematic-Video-Editor-Needed-40835345
 
 Description: 
 
@@ -1082,7 +1056,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Lead-Generating Business Website Build
+I reviewed your project: Cinematic AI Video Editor Needed
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1098,9 +1072,9 @@ Best regards
 
 ---
 
-## Daily TikTok Content Ideation
+## Bilingual Anime Video Production
 
-Link: https://www.freelancer.com/projects/content-creation/Daily-TikTok-Content-Ideation
+Link: https://www.freelancer.com/projects/2d-animation/Bilingual-Anime-Video-Production
 
 Description: 
 
@@ -1108,7 +1082,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Daily TikTok Content Ideation
+I reviewed your project: Bilingual Anime Video Production
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1124,9 +1098,9 @@ Best regards
 
 ---
 
-## Spanish Document Sourcing for AI Training
+## US-Based Multilingual Video Data Collection – 9 Languages | On Camera Spokesperson
 
-Link: https://www.freelancer.com/projects/ai-hw-sw/Spanish-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/voice-talent/Based-Multilingual-Video-Data-Collection
 
 Description: 
 
@@ -1134,7 +1108,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Spanish Document Sourcing for AI Training
+I reviewed your project: US-Based Multilingual Video Data Collection – 9 Languages | On Camera Spokesperson
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1150,9 +1124,9 @@ Best regards
 
 ---
 
-## Southern Sami Document Sourcing for AI Training
+## Afrikaans Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Southern-Sami-Document-Sourcing-for
+Link: https://www.freelancer.com/projects/afrikaans-translator/Project-Title-Afrikaans-Document
 
 Description: 
 
@@ -1160,7 +1134,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Southern Sami Document Sourcing for AI Training
+I reviewed your project: Afrikaans Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1176,9 +1150,9 @@ Best regards
 
 ---
 
-## Slovenian Document Sourcing for AI Training
+## Traditional Chinese Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-hw-sw/Slovenian-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-training-data/Traditional-Chinese-Document-Sourcing
 
 Description: 
 
@@ -1186,7 +1160,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Slovenian Document Sourcing for AI Training
+I reviewed your project: Traditional Chinese Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1202,9 +1176,9 @@ Best regards
 
 ---
 
-## Slovak Document Sourcing for AI Training
+## Simplified Chinese Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-hw-sw/Slovak-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-training-data/Simplified-Chinese-Document-Sourcing-for
 
 Description: 
 
@@ -1212,7 +1186,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Slovak Document Sourcing for AI Training
+I reviewed your project: Simplified Chinese Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1228,9 +1202,9 @@ Best regards
 
 ---
 
-## Serbian Latin Document Sourcing for AI Training
+## Korean Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-hw-sw/Serbian-Latin-Document-Sourcing-for
+Link: https://www.freelancer.com/projects/ai-training-data/Korean-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1238,7 +1212,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Serbian Latin Document Sourcing for AI Training
+I reviewed your project: Korean Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1254,9 +1228,9 @@ Best regards
 
 ---
 
-## Serbian Cyrillic Document Sourcing for AI Training
+## Japanese Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-hw-sw/Serbian-Cyrillic-Document-Sourcing-for
+Link: https://www.freelancer.com/projects/ai-training-data/Japanese-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1264,7 +1238,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Serbian Cyrillic Document Sourcing for AI Training
+I reviewed your project: Japanese Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1280,9 +1254,9 @@ Best regards
 
 ---
 
-## Scottish Gaelic Document Sourcing for AI Training
+## Hindi Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Scottish-Gaelic-Document-Sourcing-for
+Link: https://www.freelancer.com/projects/ai-training-data/Hindi-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1290,7 +1264,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Scottish Gaelic Document Sourcing for AI Training
+I reviewed your project: Hindi Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1306,9 +1280,9 @@ Best regards
 
 ---
 
-## Scots Document Sourcing for AI Training
+## Walloon Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Scots-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-hw-sw/Walloon-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1316,7 +1290,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Scots Document Sourcing for AI Training
+I reviewed your project: Walloon Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1332,9 +1306,9 @@ Best regards
 
 ---
 
-## Russian Document Sourcing for AI Training
+## Upper Sorbian Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Russian-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-training-data/Upper-Sorbian-Document-Sourcing-for
 
 Description: 
 
@@ -1342,7 +1316,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Russian Document Sourcing for AI Training
+I reviewed your project: Upper Sorbian Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1358,9 +1332,9 @@ Best regards
 
 ---
 
-## Romanian Document Sourcing for AI Training
+## Ukrainian Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/research/Romanian-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-training-data/Ukrainian-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1368,7 +1342,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Romanian Document Sourcing for AI Training
+I reviewed your project: Ukrainian Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1384,9 +1358,9 @@ Best regards
 
 ---
 
-## Informational Book Visuals
+## Turkmen Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/infographics/Informational-Book-Visuals
+Link: https://www.freelancer.com/projects/ai-training-data/Turkmen-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1394,7 +1368,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Informational Book Visuals
+I reviewed your project: Turkmen Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1410,9 +1384,9 @@ Best regards
 
 ---
 
-## Romansh (Rhaeto-Romance) Document Sourcing for AI Training
+## Turkish Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Romansh-Rhaeto-Romance-Document-Sourcing
+Link: https://www.freelancer.com/projects/ai-training-data/Turkish-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1420,7 +1394,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Romansh (Rhaeto-Romance) Document Sourcing for AI Training
+I reviewed your project: Turkish Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1436,9 +1410,9 @@ Best regards
 
 ---
 
-## Portuguese Document Sourcing for AI Training
+## Thai Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Portuguese-Document-Sourcing-for
+Link: https://www.freelancer.com/projects/ai-training-data/Thai-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1446,7 +1420,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Portuguese Document Sourcing for AI Training
+I reviewed your project: Thai Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1462,9 +1436,9 @@ Best regards
 
 ---
 
-## Polish Document Sourcing for AI Training
+## Tagalog Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Polish-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/data-annotation/Tagalog-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1472,7 +1446,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Polish Document Sourcing for AI Training
+I reviewed your project: Tagalog Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1488,9 +1462,9 @@ Best regards
 
 ---
 
-## Occitan Document Sourcing for AI Training
+## Swedish Document Sourcing for AI Training
 
-Link: https://www.freelancer.com/projects/ai-training-data/Occitan-Document-Sourcing-for-Training
+Link: https://www.freelancer.com/projects/ai-hw-sw/Swedish-Document-Sourcing-for-Training
 
 Description: 
 
@@ -1498,7 +1472,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Occitan Document Sourcing for AI Training
+I reviewed your project: Swedish Document Sourcing for AI Training
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Swahili Document Sourcing for AI Training
+
+Link: https://www.freelancer.com/projects/research/Swahili-Document-Sourcing-for-Training
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Swahili Document Sourcing for AI Training
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
