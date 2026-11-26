@@ -2,7 +2,319 @@
 
 Date: 2026-11-26
 
-Jobs found: 37
+Jobs found: 39
+
+---
+
+## Social Media Promo Video Edit
+
+Link: https://www.freelancer.com/projects/video-production/Social-Media-Promo-Video-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Social Media Promo Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Rapid TikTok Video Editing
+
+Link: https://www.freelancer.com/projects/social-media-marketing/Rapid-TikTok-Video-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Rapid TikTok Video Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Wedding Highlight Video Edit
+
+Link: https://www.freelancer.com/projects/audio-editing/Wedding-Highlight-Video-Edit
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Wedding Highlight Video Edit
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Build Streaming and P2P Wagering MVP
+
+Link: https://www.freelancer.com/projects/full-stack-development/Build-Streaming-Wagering-MVP
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Build Streaming and P2P Wagering MVP
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## One-to-One Mobile App
+
+Link: https://www.freelancer.com/projects/react-native/One-One-Mobile-App
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: One-to-One Mobile App
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Power Apps One-to-One App -- 2
+
+Link: https://www.freelancer.com/projects/powerapps/Power-Apps-One-One-App
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Power Apps One-to-One App -- 2
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Experienced Photo Retouchers Wanted
+
+Link: https://www.freelancer.com/projects/photo-editing/Experienced-Photo-Retouchers-Wanted
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Experienced Photo Retouchers Wanted
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Myntra Jewelry Catalog Listing Specialist
+
+Link: https://www.freelancer.com/projects/seo-writing/Myntra-Jewelry-Catalog-Listing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Myntra Jewelry Catalog Listing Specialist
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Storytelling YouTube Promo Video Editing
+
+Link: https://www.freelancer.com/projects/adobe-premiere-pro/Storytelling-YouTube-Promo-Video-Editing
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Storytelling YouTube Promo Video Editing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Lead BodyPower Games Content 2027
+
+Link: https://www.freelancer.com/projects/social-media-management/Lead-BodyPower-Games-Content
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Lead BodyPower Games Content 2027
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Organic Social Media Manager & Content Creator for French Tutoring Company (Lead-Focused)
+
+Link: https://www.freelancer.com/projects/social-media-management/Organic-Social-Media-Manager-Content
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Organic Social Media Manager & Content Creator for French Tutoring Company (Lead-Focused)
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Polish & Censor Teaching Videos
+
+Link: https://www.freelancer.com/projects/av-editing/Polish-Censor-Teaching-Videos
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Polish & Censor Teaching Videos
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
 
 ---
 
@@ -214,35 +526,9 @@ Best regards
 
 ---
 
-## Site Verification in Vinh Long, Vietnam  -- 2
+## YouTube Music Subscriber Ad Campaign
 
-Link: https://www.freelancer.com/projects/photography/Site-Verification-Vinh-Long-Vietnam-40837204
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Site Verification in Vinh Long, Vietnam  -- 2
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Site Verification in Vinh Long, Vietnam 
-
-Link: https://www.freelancer.com/projects/photography/Site-Verification-Vinh-Long-Vietnam
+Link: https://www.freelancer.com/projects/google-ads/YouTube-Music-Subscriber-Campaign
 
 Description: 
 
@@ -250,7 +536,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Site Verification in Vinh Long, Vietnam 
+I reviewed your project: YouTube Music Subscriber Ad Campaign
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -318,84 +604,6 @@ Best regards
 
 ---
 
-## Multi-Profile Instagram Content Manager
-
-Link: https://www.freelancer.com/projects/content-creation/Multi-Profile-Instagram-Content-Manager
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Multi-Profile Instagram Content Manager
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Premiere Pro UXP Plugin QA Tester – Mac/Windows
-
-Link: https://www.freelancer.com/projects/testing-qa/Premiere-Pro-UXP-Plugin-Tester
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Premiere Pro UXP Plugin QA Tester – Mac/Windows
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## AI Fitness Tutorial Video Creation
-
-Link: https://www.freelancer.com/projects/ai-video-editing/Fitness-Tutorial-Video-Creation
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: AI Fitness Tutorial Video Creation
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Health YouTube Video Editor Needed
 
 Link: https://www.freelancer.com/projects/youtube/Health-YouTube-Video-Editor-Needed
@@ -422,32 +630,6 @@ Best regards
 
 ---
 
-## Professional Photo Retouching Experts Needed
-
-Link: https://www.freelancer.com/projects/photo-retouching/Professional-Photo-Retouching-Experts
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Professional Photo Retouching Experts Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Travel Short-Form Scriptwriter Needed
 
 Link: https://www.freelancer.com/projects/script-writing/Travel-Short-Form-Scriptwriter-Needed
@@ -459,84 +641,6 @@ Description:
 Hello,
 
 I reviewed your project: Travel Short-Form Scriptwriter Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Anti Medical Mafia Awareness Campaign
-
-Link: https://www.freelancer.com/projects/telecommunications-engineering/Anti-Medical-Mafia-Awareness-Campaign
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Anti Medical Mafia Awareness Campaign
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Epische D&D Kampfanimation erstellen
-
-Link: https://www.freelancer.com/projects/video-editing/Epische-Kampfanimation-erstellen
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Epische D&D Kampfanimation erstellen
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## YouTube Music Subscriber Ad Campaign
-
-Link: https://www.freelancer.com/projects/google-ads/YouTube-Music-Subscriber-Campaign
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: YouTube Music Subscriber Ad Campaign
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -734,9 +838,9 @@ Best regards
 
 ---
 
-## Marketing Content Strategy & Execution
+## Site Verification in Vinh Long, Vietnam  -- 2
 
-Link: https://www.freelancer.com/projects/content-marketing/Marketing-Content-Strategy-Execution
+Link: https://www.freelancer.com/projects/photography/Site-Verification-Vinh-Long-Vietnam-40837204
 
 Description: 
 
@@ -744,7 +848,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Marketing Content Strategy & Execution
+I reviewed your project: Site Verification in Vinh Long, Vietnam  -- 2
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -760,9 +864,9 @@ Best regards
 
 ---
 
-## Cinematic Travel Vlog Edit
+## Site Verification in Vinh Long, Vietnam 
 
-Link: https://www.freelancer.com/projects/color-grading/Cinematic-Travel-Vlog-Edit-40836844
+Link: https://www.freelancer.com/projects/photography/Site-Verification-Vinh-Long-Vietnam
 
 Description: 
 
@@ -770,7 +874,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Cinematic Travel Vlog Edit
+I reviewed your project: Site Verification in Vinh Long, Vietnam 
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -786,9 +890,9 @@ Best regards
 
 ---
 
-## Kannada Telugu YouTube Video Creators
+## Multi-Profile Instagram Content Manager
 
-Link: https://www.freelancer.com/projects/voice-over/Kannada-Telugu-YouTube-Video-Creators
+Link: https://www.freelancer.com/projects/content-creation/Multi-Profile-Instagram-Content-Manager
 
 Description: 
 
@@ -796,7 +900,7 @@ Description:
 
 Hello,
 
-I reviewed your project: Kannada Telugu YouTube Video Creators
+I reviewed your project: Multi-Profile Instagram Content Manager
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -812,9 +916,9 @@ Best regards
 
 ---
 
-## Data Entry & Blog Copywriting
+## Premiere Pro UXP Plugin QA Tester – Mac/Windows
 
-Link: https://www.freelancer.com/projects/seo-writing/Data-Entry-Blog-Copywriting
+Link: https://www.freelancer.com/projects/testing-qa/Premiere-Pro-UXP-Plugin-Tester
 
 Description: 
 
@@ -822,7 +926,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Data Entry & Blog Copywriting
+I reviewed your project: Premiere Pro UXP Plugin QA Tester – Mac/Windows
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## AI Fitness Tutorial Video Creation
+
+Link: https://www.freelancer.com/projects/ai-video-editing/Fitness-Tutorial-Video-Creation
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: AI Fitness Tutorial Video Creation
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -875,84 +1005,6 @@ Description:
 Hello,
 
 I reviewed your project: Premium App Explainer Animations
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Instagram & Facebook Product Reels
-
-Link: https://www.freelancer.com/projects/social-media-marketing/Instagram-Facebook-Product-Reels
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Instagram & Facebook Product Reels
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Create Realistic AI Cathedral Music Video
-
-Link: https://www.freelancer.com/projects/ai-video/Create-Realistic-Cathedral-Music-Video
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Create Realistic AI Cathedral Music Video
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Financial Chart Video Analyst
-
-Link: https://www.freelancer.com/projects/video-editing/Financial-Chart-Video-Analyst
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Financial Chart Video Analyst
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
