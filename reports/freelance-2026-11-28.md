@@ -6,9 +6,9 @@ Jobs found: 40
 
 ---
 
-## Desktop Thermometer App Field Trial(only from Uk) -
+## E-Commerce Website for Physical Goods
 
-Link: https://www.freelancer.com/projects/report-writing/Desktop-Thermometer-App-Field-Trial-40839809
+Link: https://www.freelancer.com/projects/php/Commerce-Website-for-Physical-Goods-40840218
 
 Description: 
 
@@ -16,7 +16,59 @@ Description:
 
 Hello,
 
-I reviewed your project: Desktop Thermometer App Field Trial(only from Uk) -
+I reviewed your project: E-Commerce Website for Physical Goods
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Video Editor Needed for Early-Stage Media Startup (Beginner / Intermediate Friendly
+
+Link: https://www.freelancer.com/projects/editing/Video-Editor-Needed-for-Early
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Video Editor Needed for Early-Stage Media Startup (Beginner / Intermediate Friendly
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## GCSE History & Science Tutor
+
+Link: https://www.freelancer.com/projects/education-tutoring/GCSE-History-Science-Tutor
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: GCSE History & Science Tutor
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -344,32 +396,6 @@ Best regards
 
 ---
 
-## Full-Service YouTube Video Creator Needed
-
-Link: https://www.freelancer.com/projects/video-editing/Full-Service-YouTube-Video-Creator
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Full-Service YouTube Video Creator Needed
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Facelift Photo Editing
 
 Link: https://www.freelancer.com/projects/image-processing/Facelift-Photo-Editing
@@ -500,9 +526,9 @@ Best regards
 
 ---
 
-## Fantasy Cricket Mobile App & Management Platform
+## Claude AI YouTube Production Specialist
 
-Link: https://www.freelancer.com/projects/ios/Fantasy-Cricket-Mobile-App-Management
+Link: https://www.freelancer.com/projects/ai-video-editing/Claude-YouTube-Production-Specialist
 
 Description: 
 
@@ -510,7 +536,33 @@ Description:
 
 Hello,
 
-I reviewed your project: Fantasy Cricket Mobile App & Management Platform
+I reviewed your project: Claude AI YouTube Production Specialist
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Producción de Cuatro Mixes para Orquesta -- 4
+
+Link: https://www.freelancer.com/projects/audio-editing/Producci-Cuatro-Mixes-para-Orquesta-40840200
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Producción de Cuatro Mixes para Orquesta -- 4
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -812,58 +864,6 @@ Best regards
 
 ---
 
-## Beginner-Friendly Reels Video Editing
-
-Link: https://www.freelancer.com/projects/video-post-editing/Beginner-Friendly-Reels-Video-Editing
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Beginner-Friendly Reels Video Editing
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Accurate English Handwriting Transcription
-
-Link: https://www.freelancer.com/projects/data-entry/Accurate-English-Handwriting
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Accurate English Handwriting Transcription
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
 ## Rs.10 Per Page Typing
 
 Link: https://www.freelancer.com/projects/data-entry/Per-Page-Typing-40840097
@@ -875,6 +875,32 @@ Description:
 Hello,
 
 I reviewed your project: Rs.10 Per Page Typing
+
+I can help you create engaging, professional video content
+with clean editing, captions, suitable pacing, and attention
+to your target audience.
+
+I would first confirm your preferred style, duration,
+format, and deadline before beginning.
+
+I would be happy to discuss your requirements.
+
+Best regards
+
+
+---
+
+## Fantasy Cricket Mobile App & Management Platform
+
+Link: https://www.freelancer.com/projects/ios/Fantasy-Cricket-Mobile-App-Management
+
+Description: 
+
+### Proposal draft
+
+Hello,
+
+I reviewed your project: Fantasy Cricket Mobile App & Management Platform
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
@@ -1005,32 +1031,6 @@ Description:
 Hello,
 
 I reviewed your project: Computing Science Toolkit
-
-I can help you create engaging, professional video content
-with clean editing, captions, suitable pacing, and attention
-to your target audience.
-
-I would first confirm your preferred style, duration,
-format, and deadline before beginning.
-
-I would be happy to discuss your requirements.
-
-Best regards
-
-
----
-
-## Cross-Platform MVP Mobile App
-
-Link: https://www.freelancer.com/projects/android/Cross-Platform-MVP-Mobile-App
-
-Description: 
-
-### Proposal draft
-
-Hello,
-
-I reviewed your project: Cross-Platform MVP Mobile App
 
 I can help you create engaging, professional video content
 with clean editing, captions, suitable pacing, and attention
